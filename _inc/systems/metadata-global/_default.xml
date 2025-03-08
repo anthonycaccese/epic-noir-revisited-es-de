@@ -14,4 +14,9 @@
       <systemColorPalette3>555555</systemColorPalette3>
       <systemColorPalette4>333333</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemHardwareType>Sistema</systemHardwareType>
+      </variables>
+   </language>
 </theme>
