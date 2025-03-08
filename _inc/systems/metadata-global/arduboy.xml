@@ -14,4 +14,11 @@
       <systemColorPalette3>8664E3</systemColorPalette3>
       <systemColorPalette4>6442C1</systemColorPalette4>
    </variables>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>El Arduboy es una consola de videojuegos portátil de código abierto basada en la plataforma Arduino. Su diseño compacto y su enfoque en juegos retro han atraído a una comunidad dedicada de desarrolladores y entusiastas desde su lanzamiento en 2015.</systemDescription>
+            <systemReleaseDateFormated>2015</systemReleaseDateFormated>
+            <systemHardwareType>Consola portátil</systemHardwareType>
+        </variables>
+    </language>
 </theme>

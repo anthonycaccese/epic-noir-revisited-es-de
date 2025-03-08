@@ -14,4 +14,11 @@
       <systemColorPalette3>555555</systemColorPalette3>
       <systemColorPalette4>333333</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Coleco Adam es una computadora doméstica y una expansión para la consola ColecoVision, lanzada en octubre de 1983.</systemDescription>
+         <systemReleaseDateFormated>Octubre de 1983</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

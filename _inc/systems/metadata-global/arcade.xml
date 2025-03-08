@@ -14,4 +14,14 @@
       <systemColorPalette3>032EC0</systemColorPalette3>
       <systemColorPalette4>459FD0</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Un juego de arcade o coin-op es una máquina de videojuegos operada con monedas que se encuentra comúnmente en lugares públicos como salas de juego, bares y centros comerciales. Estos juegos fueron especialmente populares desde la década de 1970 hasta principios de los 90 y han sido un pilar en la historia de los videojuegos.</systemDescription>
+         <systemManufacturer>Varios</systemManufacturer>
+         <systemReleaseYear>Varios</systemReleaseYear>
+         <systemReleaseDate>Varias</systemReleaseDate>
+         <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
+         <systemHardwareType>Colección</systemHardwareType>
+      </variables>
+   </language>
 </theme>

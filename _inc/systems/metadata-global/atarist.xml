@@ -18,4 +18,11 @@ The ST was sold with either Atari's color monitor or the less expensive monochro
       <systemColorPalette3>000000</systemColorPalette3>
       <systemColorPalette4>ECECEC</systemColorPalette4>
    </variables>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>El Atari ST, introducido el 1 de junio de 1985, es una serie de computadoras personales de 16/32 bits que ofrecían una interfaz gráfica de usuario y capacidades MIDI integradas, siendo populares entre músicos y entusiastas de la informática.</systemDescription>
+            <systemReleaseDateFormated>1 de junio de 1985</systemReleaseDateFormated>
+            <systemHardwareType>Computadora</systemHardwareType>
+        </variables>
+    </language>
 </theme>

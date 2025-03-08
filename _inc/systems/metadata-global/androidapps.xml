@@ -10,4 +10,11 @@
       <systemCoverSize>1-1</systemCoverSize>
       <systemColor>5A9035</systemColor>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Visualiza y utiliza tus aplicaciones favoritas de Android.</systemDescription>
+         <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
+         <systemHardwareType>Carpeta</systemHardwareType>
+      </variables>
+   </language>
 </theme>

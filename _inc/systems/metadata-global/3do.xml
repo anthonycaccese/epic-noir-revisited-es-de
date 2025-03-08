@@ -14,4 +14,11 @@
       <systemColorPalette3>FFE41B</systemColorPalette3>
       <systemColorPalette4>23B14D</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La 3DO Interactive Multiplayer (a menudo llamada simplemente 3DO) es una consola de videojuegos de 32 bits desarrollada por The 3DO Company. Fue lanzada el 4 de octubre de 1993.</systemDescription>
+         <systemReleaseDateFormated>4 de octubre de 1993</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

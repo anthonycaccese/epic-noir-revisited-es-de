@@ -14,4 +14,11 @@
       <systemColorPalette3>F3EB08</systemColorPalette3>
       <systemColorPalette4>E85629</systemColorPalette4>
    </variables>
+      <language name="es_ES">
+      <variables>
+         <systemDescription>El Amiga es una familia de computadoras personales fabricadas por Commodore, introducidas por primera vez el 23 de julio de 1985.</systemDescription>
+         <systemReleaseDateFormated>23 de julio de 1985</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

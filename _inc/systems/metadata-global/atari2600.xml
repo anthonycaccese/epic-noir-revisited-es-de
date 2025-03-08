@@ -14,4 +14,11 @@
       <systemColorPalette3>D1E0EE</systemColorPalette3>
       <systemColorPalette4>222222</systemColorPalette4>
    </variables>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Atari 2600, lanzada el 11 de septiembre de 1977, es una consola de videojuegos doméstica que popularizó el uso de cartuchos intercambiables, permitiendo a los usuarios jugar una variedad de títulos en un solo dispositivo.</systemDescription>
+            <systemReleaseDateFormated>11 de septiembre de 1977</systemReleaseDateFormated>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
 </theme>

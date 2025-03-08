@@ -14,4 +14,11 @@
       <systemColorPalette3>2C90FF</systemColorPalette3>
       <systemColorPalette4>9FCFFF</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Adventure Game Studio (AGS) es un motor de código abierto diseñado para la creación de juegos de aventura gráfica, lanzado en 1997.</systemDescription>
+         <systemReleaseDateFormated>1997</systemReleaseDateFormated>
+         <systemHardwareType>Motor</systemHardwareType>
+      </variables>
+   </language>
 </theme>

@@ -14,4 +14,11 @@
       <systemColorPalette3>973E3A</systemColorPalette3>
       <systemColorPalette4>1C6EB8</systemColorPalette4>
    </variables>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Atari 5200, introducida el 1 de noviembre de 1982, es una consola de videojuegos doméstica diseñada como un complemento de gama alta para la popular Atari 2600, ofreciendo mejoras en gráficos y rendimiento.</systemDescription>
+            <systemReleaseDateFormated>1 de noviembre de 1982</systemReleaseDateFormated>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
 </theme>

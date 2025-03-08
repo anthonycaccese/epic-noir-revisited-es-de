@@ -14,4 +14,11 @@
       <systemColorPalette3>555555</systemColorPalette3>
       <systemColorPalette4>333333</systemColorPalette4>
    </variables>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>El Acorn Archimedes es una familia de computadoras personales producidas por Acorn Computers a finales de la década de 1980 y principios de la de 1990. Fueron las primeras en utilizar la arquitectura ARM, destacándose por su rendimiento y capacidades gráficas avanzadas para la época.</systemDescription>
+            <systemReleaseDateFormated>Junio de 1987</systemReleaseDateFormated>
+            <systemHardwareType>Computadora</systemHardwareType>
+        </variables>
+    </language>
 </theme>

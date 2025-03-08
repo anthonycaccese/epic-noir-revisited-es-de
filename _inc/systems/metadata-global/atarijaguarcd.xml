@@ -14,4 +14,11 @@
       <systemColorPalette3>FDC007</systemColorPalette3>
       <systemColorPalette4>232326</systemColorPalette4>
    </variables>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>El Atari Jaguar CD, lanzado el 21 de septiembre de 1995, es un periférico de CD-ROM para la consola Atari Jaguar, que permite a los usuarios jugar títulos en formato CD, ampliando la biblioteca de juegos disponibles para la consola.</systemDescription>
+            <systemReleaseDateFormated>21 de septiembre de 1995</systemReleaseDateFormated>
+            <systemHardwareType>Periférico</systemHardwareType>
+        </variables>
+    </language>
 </theme>

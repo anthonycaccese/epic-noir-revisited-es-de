@@ -14,4 +14,11 @@
       <systemColorPalette3>E3AD3A</systemColorPalette3>
       <systemColorPalette4>8C3E8C</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Apple IIGS es una computadora personal lanzada por Apple en 1986. Forma parte de la familia Apple II, pero con un hardware significativamente mejorado, incluyendo gráficos y sonido más avanzados. Fue una de las últimas computadoras de la serie Apple II antes de que Apple se enfocara en la línea Macintosh.</systemDescription>
+         <systemReleaseDateFormated>15 de septiembre de 1986</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

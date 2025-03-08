@@ -14,4 +14,11 @@
       <systemColorPalette3>F3AD2D</systemColorPalette3>
       <systemColorPalette4>ED2224</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Amiga 1200, también conocido como A1200, es un ordenador personal de la familia Amiga, lanzado por Commodore en 1992. Es una versión mejorada del Amiga 500, con mejores capacidades gráficas y de procesamiento.</systemDescription>
+         <systemReleaseDateFormated>23 de julio de 1985</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

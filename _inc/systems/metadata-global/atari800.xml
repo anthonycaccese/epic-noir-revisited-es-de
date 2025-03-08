@@ -16,4 +16,11 @@ The Atari 400 was initially almost half the cost of the Atari 800. Instead of th
       <systemColorPalette3>5D3615</systemColorPalette3>
       <systemColorPalette4>BF9438</systemColorPalette4>
    </variables>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La serie Atari de 8 bits es una familia de computadoras personales de 8 bits lanzada por Atari en 1979. Conocidas por sus capacidades gráficas y de sonido avanzadas para la época, estas computadoras fueron populares en la década de 1980 y contribuyeron significativamente al desarrollo de la informática doméstica.</systemDescription>
+            <systemReleaseDateFormated>1 de noviembre de 1979</systemReleaseDateFormated>
+            <systemHardwareType>Computadora</systemHardwareType>
+        </variables>
+    </language>
 </theme>

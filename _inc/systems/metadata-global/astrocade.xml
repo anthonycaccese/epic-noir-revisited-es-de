@@ -17,4 +17,11 @@ It was marketed only for a limited time before Bally decided to exit the market.
       <systemColorPalette3>F8F6EA</systemColorPalette3>
       <systemColorPalette4>C47401</systemColorPalette4>
    </variables>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Bally Astrocade es una consola de videojuegos doméstica y sistema informático sencillo de segunda generación, diseñada por un equipo de Midway y lanzada en abril de 1978. Aunque destacaba por sus capacidades gráficas avanzadas para la época, enfrentó desafíos en el mercado debido a la competencia y a problemas de producción.</systemDescription>
+            <systemReleaseDateFormated>1 de diciembre de 1977</systemReleaseDateFormated>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
 </theme>

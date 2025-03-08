@@ -14,4 +14,11 @@
       <systemColorPalette3>FFDF46</systemColorPalette3>
       <systemColorPalette4>4A9BE4</systemColorPalette4>
    </variables>
+      <language name="es_ES">
+      <variables>
+         <systemDescription>La Amiga CD32, estilizada como "CD32" y con el nombre en código "Spellbound", es una consola de videojuegos de 32 bits basada en CD-ROM lanzada por Commodore en 1993. Fue la primera consola de 32 bits en el mercado y la última consola producida por Commodore.</systemDescription>
+         <systemReleaseDateFormated>17 de septiembre de 1993</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

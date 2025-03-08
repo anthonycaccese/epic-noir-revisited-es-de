@@ -9,4 +9,14 @@
       <systemHardwareType>Collection</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
    </variables>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Esta colección contiene los juegos que has jugado recientemente, facilitando el acceso a los títulos que has disfrutado en sesiones anteriores.</systemDescription>
+            <systemManufacturer>Varios</systemManufacturer>
+            <systemReleaseYear>Varios</systemReleaseYear>
+            <systemReleaseDate>Varios</systemReleaseDate>
+            <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
+            <systemHardwareType>Colección</systemHardwareType>
+        </variables>
+    </language>
 </theme>

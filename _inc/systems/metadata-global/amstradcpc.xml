@@ -14,4 +14,11 @@
       <systemColorPalette3>1C75BC</systemColorPalette3>
       <systemColorPalette4>3E3E3E</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Amstrad Colour Personal Computer, más conocido como Amstrad CPC, es una serie de ordenadores domésticos de 8 bits producidos por Amstrad entre 1984 y 1990. Fueron populares en Europa, especialmente en el Reino Unido, Francia y España.</systemDescription>
+         <systemReleaseDateFormated>1 de enero de 1984</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

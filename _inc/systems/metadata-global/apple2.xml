@@ -14,4 +14,11 @@
       <systemColorPalette3>FDB827</systemColorPalette3>
       <systemColorPalette4>61BB46</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>En 1976, los pioneros de la computación Steve Wozniak y Steve Jobs diseñaron y construyeron el Apple I en un garaje en California. Un año después, Apple lanzó el Apple II, una de las primeras computadoras personales con éxito comercial. Su facilidad de uso y sus capacidades gráficas lo hicieron popular en el mercado educativo y doméstico.</systemDescription>
+         <systemReleaseDateFormated>1 de junio de 1977</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

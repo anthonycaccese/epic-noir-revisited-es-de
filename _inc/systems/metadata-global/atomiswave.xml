@@ -14,4 +14,11 @@
       <systemColorPalette3>04EF94</systemColorPalette3>
       <systemColorPalette4>029205</systemColorPalette4>
    </variables>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Atomiswave es una placa arcade creada por Sammy Corporation en 2003. Basada en la arquitectura de la consola Sega Dreamcast, la Atomiswave es conocida por su versatilidad y por albergar una variedad de juegos, especialmente en los géneros de lucha y disparos.</systemDescription>
+            <systemReleaseDateFormated>1 de enero de 2003</systemReleaseDateFormated>
+            <systemHardwareType>Placa arcade</systemHardwareType>
+        </variables>
+    </language>
 </theme>
