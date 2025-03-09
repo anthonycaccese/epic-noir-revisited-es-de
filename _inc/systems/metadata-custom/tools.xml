@@ -1,7 +1,16 @@
 <theme>
+   <variables>
+      <langLabelTools>Tools</langLabelTools>
+   </variables>
+   <language name="es_ES">
+      <variables>
+         <langLabelTools>Herramientas</langLabelTools>
+      </variables>
+   </language>
+
    <view name="system">
       <text name="system-title-1-line">
-         <text>Tools</text>
+         <text>${langLabelTools}</text>
       </text>
    </view>
 </theme>

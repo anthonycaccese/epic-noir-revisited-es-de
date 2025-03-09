@@ -16,8 +16,12 @@
    </variables>
    <language name="es_ES">
       <variables>
+         <systemName>Emuladores</systemName>
          <systemDescription>Modifica la configuración y ajustes de tu emulador.</systemDescription>
-         <systemReleaseDateFormated>Varios</systemReleaseDateFormated>
+         <systemManufacturer>Varios</systemManufacturer>
+         <systemReleaseYear>Varios</systemReleaseYear>
+         <systemReleaseDate>Varios</systemReleaseDate>
+         <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
          <systemHardwareType>Carpeta</systemHardwareType>
       </variables>
    </language>

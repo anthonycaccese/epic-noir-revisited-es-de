@@ -1,7 +1,16 @@
 <theme>
+   <variables>
+      <langLabelDesktop>Desktop</langLabelDesktop>
+   </variables>
+   <language name="es_ES">
+      <variables>
+         <langLabelDesktop>Escritorio</langLabelDesktop>
+      </variables>
+   </language>
+
    <view name="system">
       <text name="system-title-1-line">
-         <text>Desktop</text>
+         <text>${langLabelDesktop}</text>
       </text>
    </view>
 </theme>

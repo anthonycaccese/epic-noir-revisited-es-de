@@ -16,8 +16,12 @@
    </variables>
    <language name="es_ES">
       <variables>
+         <systemName>Accesos directos</systemName>
          <systemDescription>Ve y ejecuta tus accesos directos del escritorio.</systemDescription>
-         <systemReleaseDateFormated>Varios</systemReleaseDateFormated>
+         <systemManufacturer>Varios</systemManufacturer>
+         <systemReleaseYear>Varios</systemReleaseYear>
+         <systemReleaseDate>Varios</systemReleaseDate>
+         <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
          <systemHardwareType>Carpeta</systemHardwareType>
       </variables>
    </language>

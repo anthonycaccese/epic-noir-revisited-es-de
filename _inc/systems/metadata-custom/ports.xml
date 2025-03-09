@@ -1,7 +1,16 @@
 <theme>
+   <variables>
+      <langLabelPorts>Ports</langLabelPorts>
+   </variables>
+   <language name="es_ES">
+      <variables>
+         <langLabelPorts>Juegos portados</langLabelPorts>
+      </variables>
+   </language>
+
    <view name="system">
       <text name="system-title-1-line">
-         <text>Ports</text>
+         <text>${langLabelPorts}</text>
       </text>
    </view>
 </theme>

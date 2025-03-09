@@ -11,6 +11,7 @@
    </variables>
    <language name="es_ES">
       <variables>
+         <systemName>Herramientas</systemName>
          <systemDescription>Programas, scripts y utilidades para gestionar tu configuración.</systemDescription>
          <systemManufacturer>Varios</systemManufacturer>
          <systemReleaseYear>Varios</systemReleaseYear>
