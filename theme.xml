@@ -402,6 +402,89 @@ license:       creative commons CC-BY-NC-SA
       </view>
    </aspectRatio>
 
+   <aspectRatio name="4:3">
+      <view name="system,gamelist">
+         <image name="background-gradient">
+            <path>./_inc/images/background-gradient-43.svg</path>
+         </image>
+      </view>
+      <view name="system">
+         <image name="system-nav-background">
+            <size>0.0640625 1</size><!-- 123 1080 -->
+         </image>
+         <textlist name="system-nav">
+            <size>0.063541666666667 0.666666666666667</size>
+         </textlist>
+         <text name="system-metadata">
+            <pos>0.12 0.0855</pos>
+            <size>0.320 0.033</size>
+         </text>
+         <text name="system-title-1-line">
+            <pos>0.116 0.110</pos>
+         </text>
+         <text name="system-title-2-lines-row-1">
+            <pos>0.12 0.122</pos>
+         </text>
+         <text name="system-title-2-lines-row-2">
+            <pos>0.116 0.14</pos>
+         </text>
+         <text name="game-count">
+            <pos>0.12 0.3411</pos>
+            <size>0.4 0.039</size>
+         </text>
+         <text name="system-description">
+            <pos>0.12 0.41</pos>
+            <size>0.45 0.14</size>
+         </text>
+         <helpsystem name="help">
+            <pos>0.12 0.565</pos>
+         </helpsystem>
+         <image name="system-controller">
+            <pos>0.12 0.72</pos>
+            <maxSize>0.22 0.22</maxSize>
+         </image>
+      </view>
+      <view name="gamelist">
+         <image name="gamelist-nav-background">
+            <size>0.358796296296297 1</size><!-- 620 1080 -->
+         </image>
+         <text name="gamelist-nav-title">
+            <pos>0.032222222222222 0</pos>
+            <size>0.222222222222222 0.08</size>
+         </text>
+         <textlist name="gamelist-nav">
+            <textHorizontalScrollDelay>1</textHorizontalScrollDelay>
+            <size>0.358796296296297 0.836666666666667</size><!-- 620 990 -->
+         </textlist>
+         <image name="gamelist-nav-border">
+            <pos>0.359375 0</pos>
+         </image>
+         <image name="gamelist-nav-emblem">
+            <size>0.119212962962963 0.083481481481481</size><!-- 206 88 -->
+         </image>
+         <text name="system-title">
+            <pos>0.38 0.002</pos>
+            <size>0.444444444444444 0.075</size>
+         </text>
+         <badges name="badges">
+            <pos>0.524 0.022</pos>
+            <size>0.333333333333333 0.036</size>
+         </badges>
+         <video name="game-artwork">
+            <pos>0.679398148148148 0.42</pos>
+            <maxSize>0.555555555555556 0.6</maxSize>
+         </video>
+         <text name="game-description">
+            <containerStartDelay>4</containerStartDelay>
+            <pos>0.679398148148148 0.74</pos>
+            <size>0.54 0.17</size>
+         </text>
+         <helpsystem name="help">
+            <pos>0.5 0.97</pos>
+         </helpsystem>
+      </view>
+   </aspectRatio>
+
    <view name="all">
       <sound name="systembrowse">
          <path>./_inc/sounds/systembrowse.wav</path>
