@@ -11,6 +11,7 @@
    </variables>
    <language name="es_ES">
       <variables>
+         <systemName>Últimos jugados</systemName>
          <systemDescription>Ver tus juegos recientemente jugados en toda la biblioteca.</systemDescription>
          <systemManufacturer>Varios</systemManufacturer>
          <systemReleaseYear>Varios</systemReleaseYear>

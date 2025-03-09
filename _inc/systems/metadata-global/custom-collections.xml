@@ -11,6 +11,7 @@
    </variables>
    <language name="es_ES">
       <variables>
+         <systemName>Colecciones personalizadas</systemName>
          <systemDescription>Organiza tus juegos en colecciones personalizadas.</systemDescription>
          <systemManufacturer>Varios</systemManufacturer>
          <systemReleaseYear>Varios</systemReleaseYear>

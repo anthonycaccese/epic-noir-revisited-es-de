@@ -11,6 +11,7 @@
    </variables>
    <language name="es_ES">
       <variables>
+         <systemName>Todos los juegos</systemName>
          <systemDescription>Ver y jugar todos los juegos de toda tu biblioteca.</systemDescription>
          <systemManufacturer>Varios</systemManufacturer>
          <systemReleaseYear>Varios</systemReleaseYear>
