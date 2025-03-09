@@ -11,6 +11,7 @@
    </variables>
    <language name="es_ES">
       <variables>
+         <systemName>Jugando ahora</systemName>
          <systemDescription>Juega y completa los juegos en tu lista de pendientes.</systemDescription>
          <systemManufacturer>Varios</systemManufacturer>
          <systemReleaseYear>Varios</systemReleaseYear>

@@ -12,6 +12,7 @@
    </variables>
    <language name="es_ES">
       <variables>
+         <systemName>Completados</systemName>
          <systemDescription>Haz un seguimiento de los juegos que has terminado.</systemDescription>
          <systemManufacturer>Varios</systemManufacturer>
          <systemReleaseYear>Varios</systemReleaseYear>

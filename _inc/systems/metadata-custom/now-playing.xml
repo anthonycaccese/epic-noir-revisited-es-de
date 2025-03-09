@@ -1,12 +1,21 @@
 <theme>
+   <variables>
+      <langLabelNowPlaying>Now Playing</langLabelNowPlaying>
+   </variables>
+   <language name="es_ES">
+      <variables>
+         <langLabelNowPlaying>Jugando ahora</langLabelNowPlaying>
+      </variables>
+   </language>
+
    <view name="system">
       <text name="system-title-1-line">
-         <text>Now Playing</text>
+         <text>${langLabelNowPlaying}</text>
       </text>
    </view>
    <view name="gamelist">
       <text name="system-title">
-         <text>Now Playing</text>
+         <text>${langLabelNowPlaying}</text>
       </text>
    </view>
 </theme>
