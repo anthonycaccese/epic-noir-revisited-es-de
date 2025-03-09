@@ -16,4 +16,13 @@ Released in 1999 in the fifth generation of video game consoles, the WonderSwan 
       <systemColorPalette3>E72835</systemColorPalette3>
       <systemColorPalette4>282827</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La WonderSwan es una consola portátil lanzada en Japón por Bandai. Fue desarrollada por la compañía Koto Laboratory de Gunpei Yokoi y Bandai, y fue el último hardware desarrollado por Yokoi antes de su fallecimiento en 1997.
+
+Lanzada en 1999 durante la quinta generación de consolas de videojuegos, la WonderSwan y sus dos modelos posteriores, la WonderSwan Color y la SwanCrystal, fueron oficialmente soportadas hasta que Bandai las descontinuó en 2003. Durante su ciclo de vida, ninguna versión de la WonderSwan fue lanzada fuera de Japón.</systemDescription>
+         <systemReleaseDateFormated>4 de marzo de 1999</systemReleaseDateFormated>
+         <systemHardwareType>Consola portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>

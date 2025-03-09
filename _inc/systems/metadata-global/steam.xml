@@ -14,4 +14,11 @@
       <systemColorPalette3>EEEEEE</systemColorPalette3>
       <systemColorPalette4>2A2E33</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Steam es un servicio de distribución digital de videojuegos y una tienda en línea creada por Valve. Fue lanzado como un cliente de software en septiembre de 2003 como una forma para que Valve proporcionara actualizaciones automáticas para sus juegos, y posteriormente se expandió a la distribución y oferta de títulos de terceros a finales de 2005.</systemDescription>
+         <systemReleaseDateFormated>12 de septiembre de 2003</systemReleaseDateFormated>
+         <systemHardwareType>Carpeta</systemHardwareType>
+      </variables>
+   </language>
 </theme>

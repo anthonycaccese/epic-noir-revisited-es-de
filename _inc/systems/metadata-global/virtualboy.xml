@@ -16,4 +16,13 @@ The games use a parallax effect to create the illusion of depth. Sales failed to
       <systemColorPalette3>8A8C8E</systemColorPalette3>
       <systemColorPalette4>232323</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Virtual Boy es una consola portátil de videojuegos de mesa de 32 bits desarrollada y fabricada por Nintendo. Lanzada en 1995, fue promocionada como la primera consola capaz de mostrar gráficos estereoscópicos en "3D". El jugador usa la consola como un visor montado en la cabeza, colocando los ojos contra el ocular para ver una pantalla monocromática en rojo.
+
+Los juegos utilizan un efecto de paralaje para crear la ilusión de profundidad. Las ventas no alcanzaron los objetivos previstos, y Nintendo cesó su distribución y el desarrollo de juegos en 1996, habiendo lanzado solo 22 títulos para el sistema.</systemDescription>
+         <systemReleaseDateFormated>21 de julio de 1995</systemReleaseDateFormated>
+         <systemHardwareType>Consola portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>

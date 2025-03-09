@@ -14,4 +14,11 @@
       <systemColorPalette3>4F8E5C</systemColorPalette3>
       <systemColorPalette4>2C2D2C</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La línea de computadoras Thomson MOTO fue una serie de computadoras de 8 bits vendidas en la década de 1980 por la empresa francesa de electrónica Thomson, que fue nacionalizada en 1982. Las computadoras MOTO se convirtieron en una parte integral del plan "informatique pour tous" (IPT) del gobierno francés para hacer que las computadoras fueran de uso generalizado en Francia, llevando computadoras y clases de programación a los niños en las escuelas francesas. Se consideraron varios fabricantes de computadoras, incluido Apple, antes de que Thomson ganara el contrato.</systemDescription>
+         <systemReleaseDateFormated>1984</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

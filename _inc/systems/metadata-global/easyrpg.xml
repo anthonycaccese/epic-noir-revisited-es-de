@@ -14,4 +14,11 @@
       <systemColorPalette3>838382</systemColorPalette3>
       <systemColorPalette4>4B6D35</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>EasyRPG es un motor gratuito y de código abierto para crear juegos de rol, con el objetivo de ser también compatible con todos los juegos de RPG Maker 2000 y RPG Maker 2003. Los juegos de RPG Maker 2000/2003 tienden a tener mecánicas y gráficos similares a los JRPGs de 16 bits, aunque los creadores pueden utilizar scripts personalizados para modificar la jugabilidad y la apariencia.</systemDescription>
+         <systemReleaseDateFormated>2007</systemReleaseDateFormated>
+         <systemHardwareType>Motor</systemHardwareType>
+      </variables>
+   </language>
 </theme>

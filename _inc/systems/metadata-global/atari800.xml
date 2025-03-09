@@ -16,11 +16,13 @@ The Atari 400 was initially almost half the cost of the Atari 800. Instead of th
       <systemColorPalette3>5D3615</systemColorPalette3>
       <systemColorPalette4>BF9438</systemColorPalette4>
    </variables>
-    <language name="es_ES">
-        <variables>
-            <systemDescription>La serie Atari de 8 bits es una familia de computadoras personales de 8 bits lanzada por Atari en 1979. Conocidas por sus capacidades gráficas y de sonido avanzadas para la época, estas computadoras fueron populares en la década de 1980 y contribuyeron significativamente al desarrollo de la informática doméstica.</systemDescription>
-            <systemReleaseDateFormated>1 de noviembre de 1979</systemReleaseDateFormated>
-            <systemHardwareType>Computadora</systemHardwareType>
-        </variables>
-    </language>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La familia Atari de 8 bits es una serie de computadoras personales de 8 bits introducidas por Atari, Inc. en 1979 con el Atari 400 y el Atari 800, fabricadas hasta 1992. Todas las máquinas de la familia son técnicamente similares y se diferencian principalmente en el embalaje. Están basadas en el procesador MOS Technology 6502 funcionando a 1.79 MHz, y fueron las primeras computadoras personales diseñadas con chips coprocesadores personalizados. Esta arquitectura permitió gráficos y sonido más avanzados que los de las máquinas contemporáneas, y los videojuegos fueron un atractivo principal. El simulador de combate espacial en primera persona Star Raiders es considerado la aplicación más destacada de la plataforma. Los sistemas se lanzaron con periféricos plug and play utilizando el bus serial Atari SIO, un temprano análogo de USB.
+
+El Atari 400 costaba inicialmente casi la mitad que el Atari 800. En lugar del teclado de tamaño completo del 800, el 400 tiene un panel sensible a la presión. El 800 tiene una segunda ranura para cartuchos y una caja más grande que permite actualizaciones de memoria a 48K. Ambos modelos fueron reemplazados por la serie XL en 1983, luego–después de que la compañía fuera vendida y restablecida como Atari Corporation–por los modelos XE en 1985. Los modelos XL y XE son más livianos en construcción, con Atari BASIC incorporado y 2 puertos de joystick en lugar de 4. El 130XE aumentó la memoria a 128 KB de RAM conmutada por bancos.</systemDescription>
+         <systemReleaseDateFormated>1 de noviembre de 1979</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

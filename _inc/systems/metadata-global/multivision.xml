@@ -14,4 +14,11 @@
       <systemColorPalette3>183B67</systemColorPalette3>
       <systemColorPalette4>E8E342</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Othello Multivision (オセロマルチビジョン) es un clon con licencia de la SG-1000 fabricado por Tsukuda Original. Existe porque la intención original de Sega con la computadora SC-3000 era permitir que otros fabricantes produjeran computadoras compatibles con la esperanza de establecer un estándar mundial. Desafortunadamente, con la posible aparición del MSX, esta táctica fracasó y se produjeron muy pocas máquinas compatibles con la SG-1000/SC-3000. El Othello Multivision fue una de esas máquinas.</systemDescription>
+         <systemReleaseDateFormated>1983</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

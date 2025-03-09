@@ -16,4 +16,13 @@ The NAOMI 2 is significantly more powerful than the NAOMI, including a dual CPU 
       <systemColorPalette3>48B3EB</systemColorPalette3>
       <systemColorPalette4>35FF90</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Sega NAOMI 2 es una placa arcade desarrollada por Sega y es la sucesora del hardware Sega NAOMI. Fue lanzada originalmente en el año 2000. Dado que usa una arquitectura similar a la de NAOMI (pero significativamente mejorada), es totalmente retrocompatible con su predecesora.
+
+El NAOMI 2 es significativamente más potente que el NAOMI, incluyendo una configuración de doble CPU, un nuevo GPU de transformación e iluminación (T&amp;L), un GPU de doble rasterización, memoria aumentada y un ancho de banda más rápido. Esto permite juegos con muchos más polígonos que un juego de NAOMI, renderizados a velocidades mucho mayores, mientras que el nuevo GPU T&amp;L agrega efectos avanzados de iluminación y partículas. También era más asequible que el costoso (y difícil de programar) sistema arcade Sega Hikaru que lo precedió. Aun así, el NAOMI 2 era más potente que los sistemas domésticos de su tiempo.</systemDescription>
+         <systemReleaseDateFormated>2000</systemReleaseDateFormated>
+         <systemHardwareType>Arcade</systemHardwareType>
+      </variables>
+   </language>
 </theme>

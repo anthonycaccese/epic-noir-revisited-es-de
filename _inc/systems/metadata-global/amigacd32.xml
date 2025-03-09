@@ -14,9 +14,9 @@
       <systemColorPalette3>FFDF46</systemColorPalette3>
       <systemColorPalette4>4A9BE4</systemColorPalette4>
    </variables>
-      <language name="es_ES">
+   <language name="es_ES">
       <variables>
-         <systemDescription>La Amiga CD32, estilizada como "CD32" y con el nombre en código "Spellbound", es una consola de videojuegos de 32 bits basada en CD-ROM lanzada por Commodore en 1993. Fue la primera consola de 32 bits en el mercado y la última consola producida por Commodore.</systemDescription>
+         <systemDescription>La Amiga CD32, estilizada como "CD32" y con el nombre en clave "Spellbound", es la primera consola de videojuegos doméstica de 32 bits lanzada en Europa Occidental, Australia, Canadá y Brasil. Fue anunciada por primera vez en el Museo de la Ciencia en Londres el 16 de julio de 1993, y lanzada en septiembre del mismo año. La CD32 utiliza medios CD-ROM y fue desarrollada por Commodore, creador de la computadora Commodore Amiga. Estaba basada en el chipset Advanced Graphics Architecture de Commodore y tiene especificaciones similares a la computadora Amiga 1200. Usando dispositivos de terceros, es posible actualizar la CD32 con un teclado, unidad de disquete, disco duro, RAM y ratón, convirtiéndola en el equivalente de una computadora personal Amiga 1200. También se lanzó un módulo de descompresión MPEG para reproducir Video CD. Durante el período navideño posterior a su lanzamiento, la CD32 representó el 38% de todas las ventas de unidades de CD-ROM en el Reino Unido, superando las ventas del Mega-CD; sin embargo, pronto fue eclipsada por las consolas de juegos basadas en CD-ROM de otras compañías y fue descontinuada cuando Commodore entró en bancarrota.</systemDescription>
          <systemReleaseDateFormated>17 de septiembre de 1993</systemReleaseDateFormated>
          <systemHardwareType>Consola</systemHardwareType>
       </variables>

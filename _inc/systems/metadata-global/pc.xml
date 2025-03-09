@@ -18,4 +18,15 @@ The PC had a substantial influence on the personal computer market. The specific
       <systemColorPalette3>666870</systemColorPalette3>
       <systemColorPalette4>201D1D</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La IBM Personal Computer (modelo 5150, comúnmente conocida como IBM PC) es la primera microcomputadora lanzada en la línea de modelos IBM PC y la base del estándar de facto de las computadoras compatibles con IBM PC. Lanzada el 12 de agosto de 1981, fue creada por un equipo de ingenieros y diseñadores dirigido por Don Estridge en Boca Raton, Florida.
+
+La máquina estaba basada en una arquitectura abierta y periféricos de terceros. Con el tiempo, las tarjetas de expansión y la tecnología de software aumentaron para brindarle soporte.
+
+La IBM PC tuvo una influencia sustancial en el mercado de las computadoras personales. Las especificaciones de la IBM PC se convirtieron en uno de los estándares de diseño de computadoras más populares del mundo. La única competencia significativa que enfrentó de una plataforma no compatible a lo largo de la década de 1980 fue la línea de productos Apple Macintosh. La mayoría de las computadoras personales modernas son descendientes distantes de la IBM PC.</systemDescription>
+         <systemReleaseDateFormated>12 de agosto de 1981</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

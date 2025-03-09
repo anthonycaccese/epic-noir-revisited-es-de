@@ -14,4 +14,13 @@
       <systemColorPalette3>74B719</systemColorPalette3>
       <systemColorPalette4>3262D9</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Las Dragon 32 y Dragon 64 son computadoras domésticas fabricadas en la década de 1980. Las Dragon son muy similares a la TRS-80 Color Computer y fueron producidas para el mercado europeo por Dragon Data, Ltd., inicialmente en Swansea, Gales, antes de trasladar su producción a Port Talbot, Gales (hasta 1984), y posteriormente por Eurohard S.A. en Casar de Cáceres, España (de 1984 a 1987). Para el mercado estadounidense, fueron fabricadas por Tano en Nueva Orleans, Luisiana. 
+
+Los números de modelo reflejan la principal diferencia entre ambas máquinas: la cantidad de memoria RAM, que es de 32 y 64 kilobytes, respectivamente.</systemDescription>
+         <systemReleaseDateFormated>1984</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

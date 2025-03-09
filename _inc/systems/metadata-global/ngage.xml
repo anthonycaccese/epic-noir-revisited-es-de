@@ -16,4 +16,13 @@ N-Gage attempted to lure gamers away from the Game Boy Advance by including tele
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El N-Gage es un teléfono inteligente que combina características de un teléfono móvil y una consola de juegos portátil, desarrollado por Nokia, anunciado el 4 de noviembre de 2002 y lanzado el 7 de octubre de 2003. Ejecuta la plataforma original Series 60 en Symbian OS v6.1.
+
+El N-Gage intentó atraer a los jugadores del Game Boy Advance incluyendo funcionalidad telefónica. Esto no tuvo éxito, en parte porque los botones, diseñados para un teléfono, no eran adecuados para los videojuegos. El N-Gage original fue descrito como similar a un taco, lo que llevó a su apodo burlón "teléfono taco".</systemDescription>
+         <systemReleaseDateFormated>7 de octubre de 2003</systemReleaseDateFormated>
+         <systemHardwareType>Consola portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>

@@ -12,7 +12,10 @@
    </variables>
    <language name="es_ES">
       <variables>
-         <systemDescription>Visualiza y utiliza tus aplicaciones favoritas de Android.</systemDescription>
+         <systemDescription>Ver y usar tus aplicaciones favoritas de Android</systemDescription>
+         <systemManufacturer>Varios</systemManufacturer>
+         <systemReleaseYear>Varios</systemReleaseYear>
+         <systemReleaseDate>Varios</systemReleaseDate>
          <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
          <systemHardwareType>Carpeta</systemHardwareType>
       </variables>

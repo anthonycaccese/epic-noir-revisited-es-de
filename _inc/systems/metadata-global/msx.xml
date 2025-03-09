@@ -16,4 +16,13 @@ MSX systems were popular in Japan and several other countries. Sony was the prim
       <systemColorPalette3>656266</systemColorPalette3>
       <systemColorPalette4>DEE0E0</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>MSX es una arquitectura estándar de computadoras domésticas, anunciada por Microsoft y ASCII Corporation el 16 de junio de 1983. Fue concebida inicialmente por Microsoft como un producto para el sector oriental y comercializada conjuntamente por Kazuhiko Nishi, entonces vicepresidente de Microsoft y director de ASCII Corporation. Microsoft y Nishi concibieron el proyecto como un intento de crear estándares unificados entre varios fabricantes de computadoras domésticas de la época, de manera similar al estándar VHS para las videograbadoras domésticas.
+
+Los sistemas MSX fueron populares en Japón y en varios otros países. Sony fue el principal fabricante de sistemas MSX en el momento del lanzamiento y durante la mayor parte de la vida útil del producto, produciendo más unidades que cualquier otro fabricante. Finalmente, se vendieron 5 millones de unidades basadas en MSX solo en Japón. A pesar de la participación de Microsoft, pocas computadoras basadas en MSX fueron lanzadas en los Estados Unidos.</systemDescription>
+         <systemReleaseDateFormated>27 de junio de 1983</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

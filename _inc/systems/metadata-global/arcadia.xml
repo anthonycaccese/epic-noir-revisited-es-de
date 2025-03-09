@@ -14,11 +14,11 @@
       <systemColorPalette3>C70A11</systemColorPalette3>
       <systemColorPalette4>000000</systemColorPalette4>
    </variables>
-    <language name="es_ES">
-        <variables>
-            <systemDescription>La Arcadia 2001 es una consola de videojuegos doméstica de segunda generación lanzada por Emerson Radio en mayo de 1982. Aunque era más compacta que sus competidoras y ofrecía gráficos similares al Intellivision y al Odyssey, enfrentó una fuerte competencia de consolas como la Atari 5200 y el ColecoVision, lo que limitó su éxito en el mercado.</systemDescription>
-            <systemReleaseDateFormated>Mayo de 1982</systemReleaseDateFormated>
-            <systemHardwareType>Consola</systemHardwareType>
-        </variables>
-    </language>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Arcadia 2001 es una consola de videojuegos doméstica de 8 bits de segunda generación lanzada por Emerson Radio en mayo de 1982 a un precio de US$ 99, varios meses antes del lanzamiento de ColecoVision. Fue descontinuada solo 18 meses después, con un total de 35 juegos lanzados. Emerson licenció la Arcadia 2001 a Bandai, que la lanzó en Japón. Existen más de 30 clones de la Arcadia 2001.</systemDescription>
+         <systemReleaseDateFormated>Mayo de 1982</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

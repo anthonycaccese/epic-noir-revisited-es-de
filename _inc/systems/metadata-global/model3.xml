@@ -14,4 +14,11 @@
       <systemColorPalette3>000000</systemColorPalette3>
       <systemColorPalette4>4C9EFB</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Sega Model 3 es una plataforma arcade producida por Sega en asociación con Lockheed Martin. Es la sucesora de la plataforma Sega Model 2 y fue lanzada en 1996. El hardware del Model 3 es muy diferente al de las placas Model 1 y Model 2 que le precedieron. Fue diseñado con un único propósito: procesar la mayor cantidad posible de polígonos texturizados al menor costo posible. Al momento de su lanzamiento, la placa Model 3 era más potente que cualquier otra plataforma arcade en el mercado, así como cualquier consola o computadora doméstica.</systemDescription>
+         <systemReleaseDateFormated>1 de enero de 1996</systemReleaseDateFormated>
+         <systemHardwareType>Arcade</systemHardwareType>
+      </variables>
+   </language>
 </theme>

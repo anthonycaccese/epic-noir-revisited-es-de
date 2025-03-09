@@ -13,6 +13,9 @@
    <language name="es_ES">
       <variables>
          <systemDescription>Visualiza y juega tus juegos favoritos de Android.</systemDescription>
+         <systemManufacturer>Varios</systemManufacturer>
+         <systemReleaseYear>Varios</systemReleaseYear>
+         <systemReleaseDate>Varios</systemReleaseDate>
          <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
          <systemHardwareType>Carpeta</systemHardwareType>
       </variables>

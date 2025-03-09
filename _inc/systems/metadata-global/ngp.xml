@@ -16,4 +16,13 @@ The Neo Geo Pocket is considered to be an unsuccessful console. Lower than expec
       <systemColorPalette3>25374A</systemColorPalette3>
       <systemColorPalette4>0F1520</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Neo Geo Pocket es una consola de videojuegos portátil monocromática lanzada por SNK. Fue la primera consola portátil de la compañía y forma parte de la familia Neo Geo. Debutó en Japón a finales de 1998, pero nunca tuvo un lanzamiento en América, siendo exclusiva de Japón, Asia y Europa.
+
+La Neo Geo Pocket es considerada una consola poco exitosa. Las ventas fueron más bajas de lo esperado, lo que llevó a su descontinuación en 1999 y a su sucesora inmediata, la Neo Geo Pocket Color, un dispositivo a todo color que permitió que el sistema compitiera más fácilmente con la dominante Game Boy Color y que sí tuvo un lanzamiento en América. Aunque el sistema tuvo una vida corta, se lanzaron algunos juegos importantes en la plataforma, como Samurai Shodown y King of Fighters R-1.</systemDescription>
+         <systemReleaseDateFormated>31 de diciembre de 1998</systemReleaseDateFormated>
+         <systemHardwareType>Consola portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>

@@ -14,4 +14,11 @@
       <systemColorPalette3>CBC9E0</systemColorPalette3>
       <systemColorPalette4>1E1C11</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Triforce (トライフォース) es una placa arcade desarrollada en una empresa conjunta entre Sega, Nintendo y Namco. Está basada en la consola de videojuegos Nintendo GameCube para reducir costos de desarrollo, permitiendo la adaptación de juegos arcade a consolas domésticas y viceversa. Su nombre proviene del objeto mágico frecuentemente buscado en la popular serie The Legend of Zelda de Nintendo.</systemDescription>
+         <systemReleaseDateFormated>2002</systemReleaseDateFormated>
+         <systemHardwareType>Arcade</systemHardwareType>
+      </variables>
+   </language>
 </theme>

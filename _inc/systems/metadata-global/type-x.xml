@@ -16,4 +16,15 @@ Based on commodity personal computer hardware architecture, Type X is not a spec
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Taito Type X es una placa de sistema arcade lanzada en 2004 por el desarrollador y editor de videojuegos Taito.
+
+Basada en una arquitectura de hardware de computadora personal, la Type X no es una especificación para un solo conjunto de hardware, sino una plataforma modular que admite múltiples configuraciones de hardware con distintos niveles de capacidad gráfica. Esta flexibilidad permite a los desarrolladores de juegos seleccionar una configuración que se adapte a los requisitos específicos del juego y permite que la plataforma en su conjunto admita títulos con necesidades informáticas muy diferentes. 
+
+Por ejemplo, los modelos Type X+ y Type X2 tienen una mayor capacidad de procesamiento gráfico, lo que puede utilizarse para mejorar los gráficos del juego o para emitir en pantallas de mayor resolución (HDTV). La placa Type X7 se usa principalmente en máquinas de pachinko en Japón. Rawiya era copropietaria de la empresa que produjo esta placa de sistema.</systemDescription>
+         <systemReleaseDateFormated>2004</systemReleaseDateFormated>
+         <systemHardwareType>Arcade</systemHardwareType>
+      </variables>
+   </language>
 </theme>

@@ -18,4 +18,15 @@ Initially conceived as a solution for industrial and office applications, by 198
       <systemColorPalette3>00499A</systemColorPalette3>
       <systemColorPalette4>3B3431</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La NEC PC-9800 fue una línea de computadoras personales desarrollada en 1982 en Japón por NEC Corporation, basada en la arquitectura de IBM y dirigida exclusivamente al mercado japonés.
+
+El primer modelo tenía una arquitectura de 16 bits con un procesador Intel 8086 a 5 MHz y 128 KB de RAM. Venía con tarjetas gráficas capaces de mostrar 8 colores a una resolución de 640x400, lo que representaba una clara ventaja de rendimiento en comparación con las PC de la época.
+
+Inicialmente concebida como una solución para aplicaciones industriales y de oficina, en 1987 la serie PC-9801 capturó casi el 90% del mercado japonés de computadoras personales. Con el tiempo, a medida que la potencia aumentó y los gráficos y efectos de sonido fueron apreciados por los usuarios domésticos (especialmente los jugadores), también se volvió popular para aplicaciones no comerciales. La serie Touhou Project, por ejemplo, debutó en esta plataforma.</systemDescription>
+         <systemReleaseDateFormated>1 de octubre de 1982</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

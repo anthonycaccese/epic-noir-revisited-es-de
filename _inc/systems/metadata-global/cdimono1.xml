@@ -14,4 +14,11 @@
       <systemColorPalette3>FFFFFF</systemColorPalette3>
       <systemColorPalette4>0B5ED8</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Philips CD-i (Compact Disc Interactive) es un reproductor multimedia interactivo desarrollado y comercializado por Royal Philips Electronics N.V. Esta categoría de dispositivo se creó para proporcionar más funcionalidad que un reproductor de CD de audio o una consola de juegos, pero a un precio más bajo que una computadora personal con unidad de CD-ROM en ese momento. El ahorro de costos se debió a la falta de un disco duro, unidad de disquete, teclado, ratón y monitor (se usaba un televisor estándar), además de menos software de sistema operativo. Además de juegos, se produjeron títulos educativos y de referencia multimedia, como enciclopedias interactivas y recorridos por museos, antes de que el acceso público a Internet fuera generalizado. Competidores incluyeron el Tandy VIS y el Commodore CDTV. Como consola de juegos, el formato CD-i resultó ser un fracaso comercial. La compañía perdió casi mil millones de dólares en todo el proyecto, lo que llevó a Philips a abandonar la industria de los videojuegos después de su descontinuación. También fue una de las primeras consolas en implementar funciones de Internet, incluyendo suscripciones, navegación web, descargas, correo electrónico y juego en línea, facilitado por un módem de hardware adicional que Philips lanzó en 1996.</systemDescription>
+         <systemReleaseDateFormated>3 de diciembre de 1991</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

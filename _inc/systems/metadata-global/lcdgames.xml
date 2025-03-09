@@ -18,4 +18,15 @@ Handhelds' popularity was at its peak from the late 1970s into the early 1990s b
       <systemColorPalette3>C3C9C7</systemColorPalette3>
       <systemColorPalette4>3D6F78</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Los juegos electrónicos portátiles son dispositivos muy pequeños y portátiles para jugar a juegos electrónicos interactivos, a menudo versiones miniaturizadas de los videojuegos. Los controles, la pantalla y los altavoces forman parte de una sola unidad.
+
+En lugar de una pantalla de propósito general compuesta por una cuadrícula de pequeños píxeles, suelen tener pantallas personalizadas diseñadas para jugar a un solo juego. Esta simplicidad significa que pueden fabricarse tan pequeños como un reloj inteligente, y a veces lo son. La salida visual de estos juegos puede ir desde unas pocas bombillas pequeñas o luces LED hasta pantallas alfanuméricas similares a las de una calculadora; más tarde, estos fueron en su mayoría reemplazados por pantallas de cristal líquido y pantallas fluorescentes al vacío con imágenes detalladas y, en el caso de los juegos VFD, color.
+
+La popularidad de los portátiles alcanzó su punto máximo desde finales de la década de 1970 hasta principios de la de 1990 antes de declinar. Son los precursores de las consolas de videojuegos portátiles.</systemDescription>
+         <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
+         <systemHardwareType>Consola portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>

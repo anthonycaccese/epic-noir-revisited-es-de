@@ -22,4 +22,19 @@ Sharp continues to sell desktop PC/TV combos in Japan through its Internet Aquos
       <systemColorPalette3>C1C3D1</systemColorPalette3>
       <systemColorPalette4>28333D</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El X1 (エックスワン, Ekkusuwan), a veces llamado Sharp X1, es una serie de computadoras domésticas lanzadas por Sharp Corporation desde 1982 hasta 1988. Estaba basada en un procesador Z80.
+
+A pesar de que la División de Computadoras de Sharp Corporation había lanzado la serie MZ, de repente la División de Televisión presentó una nueva serie de computadoras llamada X1. En el momento en que se lanzó el X1 original, todas las demás computadoras domésticas generalmente tenían un lenguaje BASIC en ROM. Sin embargo, el X1 no tenía un BASIC en ROM y necesitaba cargar el intérprete Hu-BASIC desde una cinta de casete. Por otro lado, este concepto permitía disponer de un área de RAM libre lo más grande posible cuando no se utilizaba BASIC. Esta política fue originalmente adoptada de la serie Sharp MZ y en Japón se les llamaba computadoras limpias. La forma del gabinete del X1 también era mucho más estilizada que la de otras computadoras de la época y se podía elegir entre varios colores de gabinete (incluido el rojo).
+
+El monitor RGB del X1 tenía un sintonizador de televisión y la pantalla de la computadora podía superponerse sobre la señal de TV. Todas las funciones de la TV podían ser controladas desde un programa de computadora. La fuente de caracteres era completamente programable (conocida como PCG) con color de 4 bits, y fue utilizada de manera efectiva en muchos juegos. Toda la memoria VRAM estaba mapeada en el área de E/S, por lo que podía ser controlada sin necesidad de cambiar de banco de memoria. Gracias a estas características, el X1 era una máquina muy potente para el software de juegos.
+
+Mientras el X1 luchaba por venderse, el PC-8801 (de NEC) se volvía rápidamente popular en el mercado japonés. En 1984, Sharp lanzó la serie X1 turbo con gráficos de alta resolución (640x400, mientras que el X1 original tenía 640x200). Contaba con muchas mejoras, pero la velocidad del procesador seguía siendo de solo 4 MHz. En 1986, Sharp lanzó la serie X1 turbo Z con un monitor RGB analógico de 4096 colores. Finalmente, se lanzó el X1 twin, que tenía una PC-Engine integrada en el gabinete, como el último modelo de la serie X1 en 1987. Luego, esta serie fue sucedida por la serie X68000.
+
+Sharp continúa vendiendo computadoras de escritorio combinadas con TV en Japón a través de su línea Internet Aquos, donde aún está disponible un esquema de color rojo al estilo del X1.</systemDescription>
+         <systemReleaseDateFormated>1982</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

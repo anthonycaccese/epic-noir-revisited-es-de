@@ -14,4 +14,11 @@
       <systemColorPalette3>C1C1BE</systemColorPalette3>
       <systemColorPalette4>586C6D</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Z-machine es una máquina virtual desarrollada por Joel Berez y Marc Blank en 1979 y utilizada por Infocom para sus juegos de aventuras de texto. Infocom compiló el código del juego en archivos que contienen instrucciones de Z-machine (llamados archivos de historia o archivos Z-code) y, por lo tanto, podía portar sus aventuras de texto a una nueva plataforma simplemente escribiendo una implementación de Z-machine para esa plataforma. Con la gran cantidad de sistemas informáticos domésticos incompatibles en uso en ese momento, esto representaba una ventaja importante sobre el uso de código nativo o el desarrollo de un compilador para cada sistema.</systemDescription>
+         <systemReleaseDateFormated>1979</systemReleaseDateFormated>
+         <systemHardwareType>Motor</systemHardwareType>
+      </variables>
+   </language>
 </theme>

@@ -14,4 +14,11 @@
       <systemColorPalette3>009C37</systemColorPalette3>
       <systemColorPalette4>02559C</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El ZX Spectrum es una computadora personal de 8 bits lanzada en el Reino Unido en 1982 por Sinclair Research Ltd. Fue la sucesora del Sinclair ZX81. El Spectrum se lanzó en última instancia en ocho modelos diferentes (aunque los modelos posteriores al Spectrum 128K fueron técnicamente desarrollados y fabricados por Amstrad), que van desde el modelo de entrada con 16 kB de RAM lanzado en 1982 hasta el ZX Spectrum +3 con 128 kB de RAM y unidad de disco flexible incorporada. El Spectrum fue una de las primeras computadoras domésticas dirigidas al público general en el Reino Unido, similar en importancia al Commodore 64 en los Estados Unidos. El Commodore 64, el BBC Microcomputer y más tarde la gama Amstrad CPC fueron los principales rivales del Spectrum en el mercado del Reino Unido durante los primeros años de la década de 1980.</systemDescription>
+         <systemReleaseDateFormated>21 de abril de 1982</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

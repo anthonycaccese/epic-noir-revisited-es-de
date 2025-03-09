@@ -16,4 +16,15 @@ The Wii U is the first Nintendo console to support HD graphics. The system's pri
       <systemColorPalette3>DDDCDC</systemColorPalette3>
       <systemColorPalette4>9D8354</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Wii U (WEE YOO) es una consola de videojuegos doméstica desarrollada por Nintendo como sucesora de la Wii. Lanzada a finales de 2012, fue la primera consola de videojuegos de octava generación y compitió con la Xbox One de Microsoft y la PlayStation 4 de Sony.
+
+La Wii U es la primera consola de Nintendo en admitir gráficos en alta definición. Su controlador principal es el Wii U GamePad, que cuenta con una pantalla táctil integrada, botones direccionales, sticks analógicos y botones de acción. La pantalla puede utilizarse como un complemento de la pantalla principal o, en juegos compatibles, para jugar directamente en el GamePad. También se puede usar el Wii U Pro Controller como una alternativa más tradicional. 
+
+La Wii U es retrocompatible con todo el software y los accesorios de la Wii. Los juegos pueden admitir diversas combinaciones de controladores, incluyendo el GamePad, el Wii Remote, el Nunchuk, la Balance Board, el Classic Controller de Nintendo o el Wii U Pro Controller. Sus funciones en línea están centradas en la plataforma Nintendo Network y Miiverse, un servicio de redes sociales integrado que permitía a los usuarios compartir contenido en comunidades específicas de cada juego.</systemDescription>
+         <systemReleaseDateFormated>18 de noviembre de 2012</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

@@ -14,4 +14,11 @@
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Visual Pinball es un motor de videojuegos gratuito y de código disponible para mesas de pinball y juegos similares, como máquinas de pachinko. Incluye un editor de mesas, así como el propio simulador, y funciona en Microsoft Windows. Puede utilizarse junto con Visual PinMAME, un emulador de imágenes ROM de máquinas de pinball reales.</systemDescription>
+         <systemReleaseDateFormated>19 de diciembre de 2000</systemReleaseDateFormated>
+         <systemHardwareType>Motor</systemHardwareType>
+      </variables>
+   </language>
 </theme>

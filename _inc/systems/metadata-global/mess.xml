@@ -14,4 +14,11 @@
       <systemColorPalette3>FFEFD5</systemColorPalette3>
       <systemColorPalette4>FFD183</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Multi Emulator Super System (MESS) es un emulador para varias consolas y sistemas informáticos, basado en el núcleo de MAME. Antes era un programa independiente (que ya ha sido descontinuado), pero ahora está integrado en MAME (que sigue en desarrollo). MESS emula sistemas de juegos portátiles y de consola, plataformas informáticas y calculadoras. El proyecto se enfoca en la precisión y la portabilidad, por lo que no siempre es el emulador más rápido para un sistema en particular. Su precisión también lo hace útil para el desarrollo de juegos caseros.</systemDescription>
+         <systemReleaseDateFormated>1998</systemReleaseDateFormated>
+         <systemHardwareType>Emulador</systemHardwareType>
+      </variables>
+   </language>
 </theme>

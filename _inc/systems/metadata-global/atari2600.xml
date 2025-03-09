@@ -14,11 +14,11 @@
       <systemColorPalette3>D1E0EE</systemColorPalette3>
       <systemColorPalette4>222222</systemColorPalette4>
    </variables>
-    <language name="es_ES">
-        <variables>
-            <systemDescription>La Atari 2600, lanzada el 11 de septiembre de 1977, es una consola de videojuegos doméstica que popularizó el uso de cartuchos intercambiables, permitiendo a los usuarios jugar una variedad de títulos en un solo dispositivo.</systemDescription>
-            <systemReleaseDateFormated>11 de septiembre de 1977</systemReleaseDateFormated>
-            <systemHardwareType>Consola</systemHardwareType>
-        </variables>
-    </language>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Atari Video Computer System (VCS), más tarde llamado Atari 2600, es una consola de videojuegos de segunda generación (1976–1992) desarrollada y distribuida por Atari, Inc. Fue lanzada el 11 de septiembre de 1977 en América del Norte a un precio de venta de $199. La consola fue posteriormente lanzada en Europa (1978) y Japón (1983 - como el Atari 2800). El Atari 2600 popularizó el uso de hardware basado en microprocesadores y juegos contenidos en cartuchos ROM. La consola fue descontinuada el 1 de enero de 1992.</systemDescription>
+         <systemReleaseDateFormated>11 de septiembre de 1977</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

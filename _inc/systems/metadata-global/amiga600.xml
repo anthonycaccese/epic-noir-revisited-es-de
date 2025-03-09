@@ -16,9 +16,9 @@
    </variables>
    <language name="es_ES">
       <variables>
-         <systemDescription>El Amiga 600, también conocido como A600, es un ordenador doméstico introducido en marzo de 1992 por Commodore. Es el último modelo de Amiga basado en el Motorola 68000 y el conjunto de chips ECS de 1990. Es una versión rediseñada del Amiga 500 Plus, que añade la opción de un disco duro interno y un puerto PCMCIA. Al carecer de teclado numérico, el A600 es solo un poco más grande que un teclado de PC estándar, con un peso aproximado de 2,72 kg. Se entregaba con AmigaOS 2.0, considerado más fácil de usar que las versiones anteriores del sistema operativo.</systemDescription>
-         <systemReleaseDateFormated>Marzo de 1992</systemReleaseDateFormated>
-         <systemHardwareType>Computadora doméstica</systemHardwareType>
+         <systemDescription>La Amiga 600, también conocida como A600, es una computadora doméstica introducida en marzo de 1992 por Commodore. Es el último modelo Amiga basado en el Motorola 68000 y el chipset ECS de 1990. Es una versión rediseñada de la Amiga 500 Plus, que agrega la opción de un disco duro interno y una ranura PCMCIA. Al carecer de un teclado numérico, la A600 es solo ligeramente más grande que un teclado estándar de PC, con un peso aproximado de 2.72 kg. Venía con AmigaOS 2.0, que se consideraba más fácil de usar que las versiones anteriores del sistema operativo.</systemDescription>
+         <systemReleaseDateFormated>marzo de 1992</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
       </variables>
    </language>
 </theme>

@@ -16,4 +16,13 @@ Lutris began as a piece of software called Oblivion Launcher, which was created 
       <systemColorPalette3>222222</systemColorPalette3>
       <systemColorPalette4>FFB700</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Lutris es un gestor de juegos libre y de código abierto para sistemas operativos basados en Linux, desarrollado y mantenido por Mathieu Comandon y la comunidad, lanzado bajo la Licencia Pública General de GNU.
+
+Lutris comenzó como un software llamado Oblivion Launcher, creado en 2009 por Mathieu Comandon. Quería una forma más fácil de gestionar sus juegos en Linux, especialmente los que se ejecutaban utilizando Wine. Lutris comenzó su desarrollo en Launchpad, con el repositorio creado el 5 de mayo de 2009. El primer lanzamiento público, 0.1, fue el 29 de noviembre de 2009. En 2010, el desarrollo se trasladó a GitHub.</systemDescription>
+         <systemReleaseDateFormated>23 de febrero de 2010</systemReleaseDateFormated>
+         <systemHardwareType>Motor</systemHardwareType>
+      </variables>
+   </language>
 </theme>

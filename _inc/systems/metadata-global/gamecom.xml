@@ -17,4 +17,14 @@ It was the first video game console to include a touchscreen and the first handh
       <systemColorPalette3>AE2B2B</systemColorPalette3>
       <systemColorPalette4>186DA4</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Game.com es una consola de videojuegos portátil de quinta generación lanzada por Tiger Electronics en agosto de 1997. Una versión más pequeña, el Game.com Pocket Pro, fue lanzada a mediados de 1999.
+La primera versión del Game.com se puede conectar a un módem de 14.4 kbit/s para conectividad a Internet, de ahí su nombre haciendo referencia al dominio de nivel superior .com.
+
+Fue la primera consola de videojuegos en incluir una pantalla táctil y la primera consola portátil en ofrecer conectividad a Internet.</systemDescription>
+         <systemReleaseDateFormated>Agosto de 1997</systemReleaseDateFormated>
+         <systemHardwareType>Consola portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>

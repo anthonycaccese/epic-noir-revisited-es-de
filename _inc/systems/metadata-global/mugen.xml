@@ -14,4 +14,11 @@
       <systemColorPalette3>FFFFFF</systemColorPalette3>
       <systemColorPalette4>A1B687</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Mugen (estilizado como M.U.G.E.N) es un motor de videojuegos de lucha en 2D gratuito diseñado por Elecbyte. El contenido es creado por la comunidad, y se han desarrollado miles de luchadores, tanto originales como basados en la ficción popular. Está escrito en C y originalmente usaba la biblioteca Allegro. Las versiones más recientes del motor utilizan la biblioteca SDL.</systemDescription>
+         <systemReleaseDateFormated>27 de julio de 1999</systemReleaseDateFormated>
+         <systemHardwareType>Motor</systemHardwareType>
+      </variables>
+   </language>
 </theme>

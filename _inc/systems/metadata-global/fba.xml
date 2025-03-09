@@ -18,4 +18,15 @@ Differentiated from other emulators by a very large number of supported systems,
       <systemColorPalette3>231F20</systemColorPalette3>
       <systemColorPalette4>FFFFFF</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Este proyecto disponible es basado en FinalBurn, creado por Dave en 2000. Ha sido programado por un equipo compuesto por Barry Harris (Antiguo nombre de usuario: TrebleWinner), Jan_Klaassen, KEV, LoopMaster, Mike Haggar, Hyper Yagami y Ayeye.
+
+FinalBurn fue uno de los primeros emuladores de Capcom CPS2. Cuando este proyecto se detuvo en 2001, sus fuentes fueron ampliamente difundidas, lo que permitió el desarrollo de muchas versiones no oficiales, de las cuales FBA es la más exitosa.
+
+Se diferencia de otros emuladores por un gran número de sistemas soportados. FB Alpha también ofrece una interfaz clara (tan simple como la de Kawaks) y un excelente rendimiento. La cereza del pastel: no es intensivo en recursos, y no necesitas recurrir a configuraciones complejas para comenzar a usarlo de inmediato, aunque sus menús están de manera predeterminada en inglés.</systemDescription>
+         <systemReleaseDateFormated>2000</systemReleaseDateFormated>
+         <systemHardwareType>Emulador</systemHardwareType>
+      </variables>
+   </language>
 </theme>

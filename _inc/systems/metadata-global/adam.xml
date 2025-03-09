@@ -16,7 +16,7 @@
    </variables>
    <language name="es_ES">
       <variables>
-         <systemDescription>El Coleco Adam es una computadora doméstica y una expansión para la consola ColecoVision, lanzada en octubre de 1983.</systemDescription>
+         <systemDescription>El Coleco Adam es una computadora doméstica y un dispositivo de expansión para el ColecoVision, fabricado por la empresa estadounidense de juguetes y videojuegos Coleco. El Adam fue un intento de seguir el éxito de la consola de videojuegos ColecoVision de la empresa. Estaba disponible como Módulo de Expansión #3 para el ColecoVision, convirtiéndolo en una computadora doméstica, y como una unidad independiente. Como tal, tenía la ventaja de ser completamente compatible con todos los juegos y periféricos del ColecoVision. La computadora venía con 64 KB de memoria, una unidad de cinta para un medio propietario llamado Digital Data Packs, una impresora de rueda de margarita y aplicaciones de productividad, junto con dos DDPs para SmartBASIC y Buck Rogers: Planet of Zoom Super Game. Fue lanzado en octubre de 1983 con un precio inicial de $700.</systemDescription>
          <systemReleaseDateFormated>Octubre de 1983</systemReleaseDateFormated>
          <systemHardwareType>Computadora</systemHardwareType>
       </variables>

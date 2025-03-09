@@ -14,4 +14,11 @@
       <systemColorPalette3>A05745</systemColorPalette3>
       <systemColorPalette4>5C5599</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Ve y ejecuta tus accesos directos del escritorio.</systemDescription>
+         <systemReleaseDateFormated>Varios</systemReleaseDateFormated>
+         <systemHardwareType>Carpeta</systemHardwareType>
+      </variables>
+   </language>
 </theme>

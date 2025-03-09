@@ -14,11 +14,11 @@
       <systemColorPalette3>04EF94</systemColorPalette3>
       <systemColorPalette4>029205</systemColorPalette4>
    </variables>
-    <language name="es_ES">
-        <variables>
-            <systemDescription>La Atomiswave es una placa arcade creada por Sammy Corporation en 2003. Basada en la arquitectura de la consola Sega Dreamcast, la Atomiswave es conocida por su versatilidad y por albergar una variedad de juegos, especialmente en los géneros de lucha y disparos.</systemDescription>
-            <systemReleaseDateFormated>1 de enero de 2003</systemReleaseDateFormated>
-            <systemHardwareType>Placa arcade</systemHardwareType>
-        </variables>
-    </language>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Atomiswave es una placa y gabinete de sistema de arcade personalizado de Sammy Corporation. Está basado en la placa del sistema NAOMI de Sega (por lo que es común ver el logo de "Sega" en su pantalla de inicio). El Atomiswave usa cartuchos de juegos intercambiables y el panel de control del gabinete se puede cambiar fácilmente con diferentes configuraciones de controles, incluyendo joysticks dobles, pistolas de luz dobles y un volante. Con la retirada del envejecido sistema Neo Geo MVS, SNK Playmore eligió el Atomiswave como su próximo sistema para desarrollar juegos. En un contrato con Sammy, SNK Playmore acordó desarrollar cinco juegos para el sistema Atomiswave. Metal Slug 6 fue el quinto juego de SNK Playmore para el Atomiswave, después de lo cual SNK pasó a una placa de arcade Taito Type X2.</systemDescription>
+         <systemReleaseDateFormated>1 de enero de 2003</systemReleaseDateFormated>
+         <systemHardwareType>Arcade</systemHardwareType>
+      </variables>
+   </language>
 </theme>

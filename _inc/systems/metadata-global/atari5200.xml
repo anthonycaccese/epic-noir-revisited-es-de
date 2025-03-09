@@ -14,11 +14,11 @@
       <systemColorPalette3>973E3A</systemColorPalette3>
       <systemColorPalette4>1C6EB8</systemColorPalette4>
    </variables>
-    <language name="es_ES">
-        <variables>
-            <systemDescription>La Atari 5200, introducida el 1 de noviembre de 1982, es una consola de videojuegos doméstica diseñada como un complemento de gama alta para la popular Atari 2600, ofreciendo mejoras en gráficos y rendimiento.</systemDescription>
-            <systemReleaseDateFormated>1 de noviembre de 1982</systemReleaseDateFormated>
-            <systemHardwareType>Consola</systemHardwareType>
-        </variables>
-    </language>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Atari 5200 SuperSystem, comúnmente conocido como el Atari 5200, es una consola de videojuegos de segunda generación (1976–1992) desarrollada y distribuida por Atari, Inc. Fue lanzada en noviembre de 1982 en América del Norte a un precio de venta de $269. No fue lanzada fuera de América del Norte. El hardware interno del 5200 era casi idéntico al de los ordenadores de 8 bits de Atari, sin embargo, venía con un control innovador que presentaba un joystick no centrado de 360 grados con un teclado numérico, botones de inicio, pausa y reinicio. La consola fue descontinuada el 21 de mayo de 1984.</systemDescription>
+         <systemReleaseDateFormated>1 de noviembre de 1982</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

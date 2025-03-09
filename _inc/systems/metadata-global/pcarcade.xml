@@ -14,4 +14,11 @@
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>A principios de los años 2000, los fabricantes de sistemas arcade comenzaron a alejarse de los diseños de placas personalizadas y, como parte de este cambio, muchos adoptaron la arquitectura estándar de PC. Hubo numerosos diseños de este tipo que ejecutaban Linux o Windows, como Sega Lindbergh, Namco System N2 y Taito Type X.</systemDescription>
+         <systemReleaseDateFormated>Varios</systemReleaseDateFormated>
+         <systemHardwareType>Carpeta</systemHardwareType>
+      </variables>
+   </language>
 </theme>

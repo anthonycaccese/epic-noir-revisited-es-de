@@ -14,4 +14,11 @@
       <systemColorPalette3>3E64AE</systemColorPalette3>
       <systemColorPalette4>811B15</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Sega Genesis, conocido como Mega Drive en la mayoría de las regiones fuera de América del Norte, es una consola de videojuegos doméstica de 16 bits desarrollada y vendida por Sega Enterprises, Ltd. El Genesis fue la tercera consola de Sega y la sucesora del Master System. Sega lanzó la consola por primera vez como Mega Drive en Japón en 1988, seguida de su debut en América del Norte bajo el nombre de Genesis en 1989. En 1990, la consola fue distribuida como Mega Drive por Virgin Mastertronic en Europa, por Ozisoft en Australasia y por Tec Toy en Brasil. En Corea del Sur, los sistemas fueron distribuidos por Samsung y se conocieron como Super Gam*Boy, y más tarde como Super Aladdin Boy. El microprocesador principal del Genesis es un CPU Motorola 68000 de 16/32 bits con una velocidad de reloj de 7.6 MHz. La consola también incluye un subprocesador Zilog Z80, que se utilizaba principalmente para controlar el hardware de sonido y también proporciona compatibilidad con el Master System.</systemDescription>
+         <systemReleaseDateFormated>14 de agosto de 1989</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

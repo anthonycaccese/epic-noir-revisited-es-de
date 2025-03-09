@@ -16,9 +16,9 @@
    </variables>
    <language name="es_ES">
       <variables>
-         <systemDescription>Android es un sistema operativo móvil basado en el núcleo de Linux y otros software de código abierto, diseñado principalmente para dispositivos móviles con pantalla táctil como smartphones y tabletas. Fue lanzado por primera vez el 23 de septiembre de 2008.</systemDescription>
+         <systemDescription>Android es un sistema operativo móvil basado en una versión modificada del núcleo de Linux y otro software de código abierto, diseñado principalmente para dispositivos móviles con pantalla táctil, como smartphones y tabletas. Android es desarrollado por un consorcio de desarrolladores conocido como la Open Handset Alliance, aunque su versión más utilizada es desarrollada principalmente por Google. Fue presentado en noviembre de 2007, con el primer dispositivo comercial con Android, el HTC Dream, lanzado en septiembre de 2008.</systemDescription>
          <systemReleaseDateFormated>23 de septiembre de 2008</systemReleaseDateFormated>
-         <systemHardwareType>Sistema Operativo</systemHardwareType>
+         <systemHardwareType>Sistema operativo</systemHardwareType>
       </variables>
    </language>
 </theme>

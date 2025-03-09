@@ -16,4 +16,11 @@ The design was much like the Game Gear with a D-Pad and two action buttons, alth
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Game Master es una consola de videojuegos portátil fabricada por Hartung, diseñada para competir con la Nintendo Game Boy. En Alemania, fue comercializada por la misma Hartung, mientras que en el Reino Unido se lanzó como el Systema 2000 por el ya bien establecido fabricante de juegos LCD baratos, Systema. También se vendió bajo otros nombres alternativos en Francia, incluido el Videojet Game Master, así como algunos modelos lanzados por Hartung como el Hartung Super Game y el Hartung Game Tronic. El Game Master tiene una pantalla LCD monocromática de 64x64 píxeles.</systemDescription>
+         <systemReleaseDateFormated>1990</systemReleaseDateFormated>
+         <systemHardwareType>Consola portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>

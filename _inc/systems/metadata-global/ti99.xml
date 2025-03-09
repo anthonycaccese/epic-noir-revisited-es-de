@@ -16,4 +16,13 @@ It includes a simplified internal design, a full-travel keyboard, improved graph
       <systemColorPalette3>1F1F1F</systemColorPalette3>
       <systemColorPalette4>FD7F34</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La TI-99/4 es una computadora doméstica lanzada a finales de 1979 por Texas Instruments. Basada en el microprocesador Texas Instruments TMS9900, originalmente utilizado en minicomputadoras, fue la primera computadora doméstica de 16 bits. Su controlador de pantalla de video proporciona gráficos en color y uno de los mejores soportes para sprites de su época.
+
+Incluye un diseño interno simplificado, un teclado de recorrido completo, gráficos mejorados y un sistema de expansión único. A mitad de precio del modelo original, sus ventas aumentaron significativamente. Texas Instruments respaldó la TI-99/4A con periféricos, incluyendo un sintetizador de voz y una caja de "Sistema de Expansión de Periféricos" para contener accesorios de hardware. TI publicó información y herramientas para desarrolladores, pero su insistencia en ser el único editor de software limitó la disponibilidad de programas para la plataforma.</systemDescription>
+         <systemReleaseDateFormated>junio de 1981</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

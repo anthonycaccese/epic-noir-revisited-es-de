@@ -16,7 +16,7 @@
    </variables>
    <language name="es_ES">
       <variables>
-         <systemDescription>Adventure Game Studio (AGS) es un motor de código abierto diseñado para la creación de juegos de aventura gráfica, lanzado en 1997.</systemDescription>
+         <systemDescription>Adventure Game Studio (AGS) es una herramienta de desarrollo de código abierto utilizada principalmente para crear juegos de aventura gráfica. Está dirigida a diseñadores de juegos de nivel intermedio, y combina un entorno de desarrollo integrado (IDE) con un lenguaje de programación basado en C para procesar la lógica del juego.</systemDescription>
          <systemReleaseDateFormated>1997</systemReleaseDateFormated>
          <systemHardwareType>Motor</systemHardwareType>
       </variables>

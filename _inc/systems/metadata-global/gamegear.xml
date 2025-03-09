@@ -16,4 +16,13 @@ Though the Game Gear was rushed to market, its unique game library and price poi
       <systemColorPalette3>008200</systemColorPalette3>
       <systemColorPalette4>0000FE</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Game Gear es una consola de videojuegos portátil de 8 bits de cuarta generación lanzada por Sega el 6 de octubre de 1990 en Japón, en abril de 1991 en América del Norte y Europa, y en 1992 en Australia. El Game Gear compitió principalmente con el Game Boy de Nintendo, el Atari Lynx y el TurboExpress de NEC. Comparte gran parte de su hardware con el Master System y puede jugar juegos de Master System mediante un adaptador. Sega posicionó el Game Gear, que tenía una pantalla a color retroiluminada en formato paisaje, como una consola portátil tecnológicamente superior al Game Boy.
+
+Aunque el Game Gear fue apresurado al mercado, su biblioteca de juegos única y su precio le dieron una ventaja sobre el Atari Lynx y el TurboExpress. Sin embargo, debido a su corta duración de batería, falta de juegos originales y un apoyo débil por parte de Sega, el Game Gear no pudo superar al Game Boy, vendiendo 10.62 millones de unidades para marzo de 1996. El Game Gear fue descontinuado el 30 de abril de 1997. Fue relanzado como un sistema de bajo costo por Majesco Entertainment en 2000, bajo licencia de Sega.</systemDescription>
+         <systemReleaseDateFormated>6 de octubre de 1990</systemReleaseDateFormated>
+         <systemHardwareType>Consola portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>

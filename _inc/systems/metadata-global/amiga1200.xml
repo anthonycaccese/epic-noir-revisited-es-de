@@ -16,7 +16,7 @@
    </variables>
    <language name="es_ES">
       <variables>
-         <systemDescription>El Amiga 1200, también conocido como A1200, es un ordenador personal de la familia Amiga, lanzado por Commodore en 1992. Es una versión mejorada del Amiga 500, con mejores capacidades gráficas y de procesamiento.</systemDescription>
+         <systemDescription>La Amiga es una familia de computadoras personales comercializadas por Commodore en las décadas de 1980 y 1990. El primer modelo se lanzó en 1985 como una computadora doméstica de alta gama y se hizo popular por sus capacidades gráficas, de audio y multitarea. La Amiga representó una mejora significativa respecto a las computadoras de 8 bits, como el Commodore 64, y la plataforma creció rápidamente en popularidad entre los entusiastas de la informática. El modelo más vendido, la Amiga 500, se introdujo en 1987 y se convirtió en la computadora doméstica líder de finales de la década de 1980 y principios de la de 1990 en gran parte de Europa Occidental.</systemDescription>
          <systemReleaseDateFormated>23 de julio de 1985</systemReleaseDateFormated>
          <systemHardwareType>Computadora</systemHardwareType>
       </variables>

@@ -21,4 +21,18 @@ The only direct competition to the Famicom was Sega’s SG-1000, which the Famic
       <systemColorPalette3>C0A987</systemColorPalette3>
       <systemColorPalette4>AA1A41</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Family Computer (ファミリーコンピュータ) o Famicom (ファミコン) llegó al mercado japonés de videojuegos en 1983. La idea de Masayuki Uemura, Famicom fue la primera consola de videojuegos doméstica basada en cartuchos de Nintendo. Se convirtió en un éxito instantáneo, con títulos como el clásico de arcade Donkey Kong, diseñado por el legendario Shigeru Miyamoto, impulsando las ventas.
+
+El Famicom comenzó su vida como el "GameCom" antes de que la esposa del diseñador del sistema, Masayuki Uemura, sugiriera el nombre que conocemos y amamos hoy en día. Durante el desarrollo, se barajaron varias ideas, incluido el concepto de crear una poderosa computadora doméstica completa con un teclado y unidad de disco, pero finalmente la consola se convirtió en la diminuta maravilla rojo y blanca que ha sido tan icónica a lo largo de los años; el esquema de colores aparentemente fue elegido por el presidente de Nintendo, Hiroshi Yamauchi, después de ver un cartel publicitario que usaba los mismos tonos.
+
+El Famicom fue diseñado para ser barato e impresionante. Nintendo pretendía ser frugal cuando fuera posible, pero no quería sacrificar el rendimiento. El objetivo era que su consola no fuera superada en términos de calidad y rentabilidad por sus competidores durante al menos un año, si no más. La consola fue deliberadamente diseñada para parecerse a un juguete, con un esquema de diseño similar a la serie Game and Watch de juegos portátiles que habían lanzado un par de años antes del Famicom.
+
+La única competencia directa del Famicom era el SG-1000 de Sega, que el Famicom estaba superando fácilmente en ventas. En dos años, el Famicom ya había vendido 2,5 millones de unidades en Japón. Este éxito impulsó a Nintendo, que comenzó a mirar hacia los mercados internacionales. En total, Nintendo vendió más de 10 millones de unidades en Japón.</systemDescription>
+         <systemDescriptionSource>https://www.museumofplay.org/blog/first-there-was-famicom/, https://retrogaming.tech.blog/2016/12/03/a-history-of-the-nintendo-famicom/, https://www.nintendolife.com/news/2013/07/feature_the_history_of_the_famicom_the_console_that_changed_nintendos_fortunes</systemDescriptionSource>
+         <systemReleaseDateFormated>15 de julio de 1983</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

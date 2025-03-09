@@ -14,4 +14,11 @@
       <systemColorPalette3>FD4120</systemColorPalette3>
       <systemColorPalette4>00A0C6</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Commodore 64 es una computadora doméstica de 8 bits introducida en enero de 1982 por Commodore International. Está listada en los Récords Mundiales Guinness como el modelo de computadora más vendido de todos los tiempos, con estimaciones de ventas entre 10 y 17 millones de unidades. Su producción en volumen comenzó a principios de 1982 y salió al mercado en agosto por 595 dólares estadounidenses (equivalente a 1,461 dólares en 2015). Precedido por el Commodore VIC-20 y el Commodore PET, el C64 tomó su nombre de sus 64 kilobytes (65,536 bytes) de RAM. Tenía especificaciones gráficas y de sonido superiores en comparación con otros sistemas anteriores como el Apple II y el Atari 800, con sprites en varios colores y un procesador de sonido más avanzado.</systemDescription>
+         <systemReleaseDateFormated>1 de enero de 1982</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

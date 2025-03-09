@@ -14,4 +14,11 @@
       <systemColorPalette3>BCBCBC</systemColorPalette3>
       <systemColorPalette4>212121</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Nintendo DS, o simplemente DS, es una consola de videojuegos portátil de doble pantalla y 32 bits desarrollada y lanzada por Nintendo. El dispositivo salió a la venta en Norteamérica el 21 de noviembre de 2004. La DS, abreviatura de "Developers' System" o "Dual Screen", introdujo características distintivas en los juegos portátiles: dos pantallas LCD que funcionan en conjunto (la inferior con pantalla táctil), un micrófono incorporado y compatibilidad con conectividad inalámbrica. Ambas pantallas están contenidas dentro de un diseño tipo concha similar al de la Game Boy Advance SP. La Nintendo DS también permite que varias consolas DS interactúen directamente entre sí a través de Wi-Fi en un rango corto sin necesidad de conectarse a una red inalámbrica existente. Alternativamente, podían interactuar en línea mediante el servicio Nintendo Wi-Fi Connection, ahora cerrado.</systemDescription>
+         <systemReleaseDateFormated>21 de noviembre de 2004</systemReleaseDateFormated>
+         <systemHardwareType>Portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>

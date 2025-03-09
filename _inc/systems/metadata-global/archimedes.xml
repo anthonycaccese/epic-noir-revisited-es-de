@@ -14,11 +14,11 @@
       <systemColorPalette3>555555</systemColorPalette3>
       <systemColorPalette4>333333</systemColorPalette4>
    </variables>
-    <language name="es_ES">
-        <variables>
-            <systemDescription>El Acorn Archimedes es una familia de computadoras personales producidas por Acorn Computers a finales de la década de 1980 y principios de la de 1990. Fueron las primeras en utilizar la arquitectura ARM, destacándose por su rendimiento y capacidades gráficas avanzadas para la época.</systemDescription>
-            <systemReleaseDateFormated>Junio de 1987</systemReleaseDateFormated>
-            <systemHardwareType>Computadora</systemHardwareType>
-        </variables>
-    </language>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Acorn Archimedes es una familia de computadoras personales diseñadas por Acorn Computers de Cambridge, Inglaterra. Los sistemas se basan en los procesadores de arquitectura ARM propios de Acorn y los sistemas operativos propietarios Arthur y RISC OS. Los primeros modelos fueron introducidos en 1987, y los sistemas de la familia Archimedes se vendieron hasta mediados de la década de 1990.</systemDescription>
+         <systemReleaseDateFormated>Junio de 1987</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

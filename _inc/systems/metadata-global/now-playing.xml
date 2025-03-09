@@ -9,4 +9,13 @@
       <systemHardwareType>Collection</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Juega y completa los juegos en tu lista de pendientes.</systemDescription>
+         <systemManufacturer>Varios</systemManufacturer>
+         <systemReleaseYear>Varios</systemReleaseYear>
+         <systemReleaseDate>Varias</systemReleaseDate><systemReleaseDateFormated>Varios</systemReleaseDateFormated>
+         <systemHardwareType>Colección</systemHardwareType>
+      </variables>
+   </language>
 </theme>

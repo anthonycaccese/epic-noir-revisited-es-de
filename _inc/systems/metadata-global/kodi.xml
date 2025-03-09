@@ -14,4 +14,11 @@
       <systemColorPalette3>448F38</systemColorPalette3>
       <systemColorPalette4>BF2E31</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Kodi es una aplicación de software reproductor multimedia de código abierto y gratuito, desarrollado por la Fundación XBMC, un consorcio tecnológico sin ánimo de lucro. Kodi está disponible para múltiples sistemas operativos y plataformas de hardware, con una interfaz de usuario tipo "10 pies" diseñada para su uso en televisores y con controles remotos.</systemDescription>
+         <systemReleaseDateFormated>2002</systemReleaseDateFormated>
+         <systemHardwareType>Carpeta</systemHardwareType>
+      </variables>
+   </language>
 </theme>

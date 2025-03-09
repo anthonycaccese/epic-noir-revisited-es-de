@@ -14,4 +14,11 @@
       <systemColorPalette3>343434</systemColorPalette3>
       <systemColorPalette4>35C4EE</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Epic Games Store es una tienda digital de videojuegos para Microsoft Windows y macOS, operada por Epic Games. Se lanzó en diciembre de 2018 como un sitio web y un lanzador independiente, este último necesario para descargar y jugar los juegos. La tienda ofrece un catálogo básico, gestión de listas de amigos, emparejamiento y otras funciones. Epic Games tiene planes de ampliar las características de la tienda, pero no planea agregar tantas funciones como otras plataformas de distribución digital, como foros de discusión o reseñas de usuarios, en su lugar usa plataformas de redes sociales existentes para brindar soporte.</systemDescription>
+         <systemReleaseDateFormated>Diciembre de 2018</systemReleaseDateFormated>
+         <systemHardwareType>Carpeta</systemHardwareType>
+      </variables>
+   </language>
 </theme>

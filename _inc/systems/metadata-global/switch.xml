@@ -14,4 +14,13 @@
       <systemColorPalette3>000000</systemColorPalette3>
       <systemColorPalette4>EBECEE</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Nintendo Switch es una consola de videojuegos doméstica de octava generación (2012-presente) desarrollada y distribuida por Nintendo. Fue lanzada el 3 de marzo de 2017 en Norteamérica con un precio de venta de $299.99. La consola se lanzó simultáneamente en Japón (2017), Europa (2017), Sudamérica (2017), Australia (2017) y otros mercados internacionales (2017). 
+
+La Switch está diseñada para ser una consola híbrida, permitiendo jugar en un televisor y luego llevarla a cualquier lugar simplemente desacoplándola de la base y utilizándola en su unidad portátil. Hasta la fecha, la consola sigue en producción.</systemDescription>
+         <systemReleaseDateFormated>3 de marzo de 2017</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

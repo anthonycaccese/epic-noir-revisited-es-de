@@ -16,4 +16,13 @@ The PC Engine has an 8-bit CPU, a 16-bit video color encoder, and a 16-bit video
       <systemColorPalette3>333333</systemColorPalette3>
       <systemColorPalette4>D9D9D9</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La PC Engine es una consola de videojuegos doméstica de cuarta generación y 16 bits diseñada por Hudson Soft y vendida por NEC Home Electronics. Fue lanzada en Japón en 1987 y en América del Norte en 1989. El modelo japonés fue importado y distribuido en Francia en 1989, mientras que el Reino Unido y España recibieron una versión basada en el modelo americano, conocida simplemente como TurboGrafx. Fue la primera consola lanzada en la era de los 16 bits, aunque utilizaba una CPU modificada de 8 bits. En Japón, el sistema fue lanzado como competidor del Famicom, pero el retraso en su lanzamiento en Estados Unidos hizo que terminara compitiendo con la Sega Genesis y más tarde con la Super Nintendo Entertainment System.
+
+La PC Engine tiene una CPU de 8 bits, un codificador de color de video de 16 bits y un controlador de pantalla de video de 16 bits. Sus procesadores gráficos son capaces de mostrar 482 colores simultáneamente de un total de 512. Con unas dimensiones de solo 14 cm × 14 cm × 3.8 cm (5.5 in × 5.5 in × 1.5 in), la PC Engine japonesa es la consola de videojuegos doméstica más pequeña jamás fabricada. Los juegos fueron lanzados en cartuchos HuCard y, posteriormente, en formato óptico CD-ROM.</systemDescription>
+         <systemReleaseDateFormated>30 de octubre de 1987</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

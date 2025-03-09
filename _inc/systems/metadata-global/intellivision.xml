@@ -14,4 +14,11 @@
       <systemColorPalette3>C81A7C</systemColorPalette3>
       <systemColorPalette4>C8D463</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Mattel Intellivision es una consola de videojuegos de segunda generación (1976–1992) desarrollada y distribuida por Mattel Electronics. Fue lanzada en el verano de 1979 en América del Norte a un precio de $299. La consola fue lanzada más tarde en Europa (1981), América del Sur (1982) y Japón (1982). La Intellivision fue la primera consola doméstica en utilizar un campo de juego basado en mosaicos y fue la primera consola de videojuegos en proporcionar voces humanas en tiempo real durante el juego, gracias al módulo IntelliVoice. La consola fue descontinuada a principios de 1990.</systemDescription>
+         <systemReleaseDateFormated>3 de diciembre de 1979</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

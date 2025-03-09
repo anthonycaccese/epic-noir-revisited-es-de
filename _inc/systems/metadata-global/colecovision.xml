@@ -14,4 +14,11 @@
       <systemColorPalette3>FADD2F</systemColorPalette3>
       <systemColorPalette4>A4DDF0</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El ColecoVision es una consola de videojuegos doméstica de segunda generación (1976-1992) desarrollada y distribuida por Coleco Industries. Fue lanzada en agosto de 1982 en América del Norte a un precio de venta de 175 dólares. Posteriormente se lanzó en Europa en 1983. El ColecoVision ofrecía una experiencia más cercana a los juegos de arcade en comparación con sus competidores de la época. La consola fue descontinuada a mediados de 1985.</systemDescription>
+         <systemReleaseDateFormated>1 de agosto de 1982</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>
