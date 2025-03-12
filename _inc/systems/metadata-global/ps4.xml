@@ -14,4 +14,11 @@
       <systemColorPalette3>0123A1</systemColorPalette3>
       <systemColorPalette4>EBECEE</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La PlayStation 4 (PS4) es una consola de videojuegos doméstica desarrollada por Sony Interactive Entertainment. Anunciada como la sucesora de la PlayStation 3 en febrero de 2013, fue lanzada el 15 de noviembre de 2013 en Norteamérica, el 29 de noviembre de 2013 en Europa, Sudamérica y Australia, y el 22 de febrero de 2014 en Japón. Como una consola de octava generación, compite con la Xbox One de Microsoft y la Wii U y Switch de Nintendo.</systemDescription>
+         <systemReleaseDateFormated>15 de noviembre de 2013</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

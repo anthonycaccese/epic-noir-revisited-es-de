@@ -14,4 +14,11 @@
       <systemColorPalette3>F8EA32</systemColorPalette3>
       <systemColorPalette4>FF5700</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>LowRes NX se inspiró en sistemas reales de 8 y 16 bits y simula chips para gráficos, sonido y E/S, que realmente funcionan como el hardware clásico. Soporta sprites de hardware así como desplazamiento de parallax en hardware, e incluso ofrece interrupciones de vacío vertical y de raster para crear efectos retro auténticos. Imagina LowRes NX como una consola portátil con un d-pad, dos botones de acción y un pequeño teclado de goma debajo de una pantalla táctil deslizante.</systemDescription>
+         <systemReleaseDateFormated>2017</systemReleaseDateFormated>
+         <systemHardwareType>Motor</systemHardwareType>
+      </variables>
+   </language>
 </theme>

@@ -14,4 +14,11 @@
       <systemColorPalette3>DC110B</systemColorPalette3>
       <systemColorPalette4>D8D3BD</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Daphne es un emulador de arcade que emula una variedad de juegos de video en laserdisc con la intención de preservar estos juegos y hacer que la experiencia de juego sea lo más fiel posible a los originales. El desarrollador llama a Daphne el "Primer Emulador de Laserdisc de Arcade Múltiple" ("FEMALE"). Su nombre proviene de la princesa Daphne, la heroína de Dragon's Lair.</systemDescription>
+         <systemReleaseDateFormated>6 de febrero de 2007</systemReleaseDateFormated>
+         <systemHardwareType>Emulador</systemHardwareType>
+      </variables>
+   </language>
 </theme>

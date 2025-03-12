@@ -14,4 +14,13 @@
       <systemColorPalette3>9A9A9A</systemColorPalette3>
       <systemColorPalette4>00FFEE</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Watara Supervision, también conocida como QuickShot Supervision en el Reino Unido, es una consola portátil de videojuegos en blanco y negro, originaria de Asia, y lanzada en 1992 como una competidora de bajo costo de la Game Boy de Nintendo. Venía empaquetada con un juego llamado Crystball, similar a Breakout. 
+
+Una característica única de la Supervision era que podía conectarse a un televisor mediante un cable de enlace. Los juegos jugados de esta manera se mostraban en cuatro colores, de forma similar al accesorio Super Game Boy de Nintendo para la SNES. También se estaba desarrollando un enlace de TV a todo color, pero debido a la falta de impacto de la Supervision entre los jugadores, este fue cancelado, junto con los juegos que estaban en desarrollo para él.</systemDescription>
+         <systemReleaseDateFormated>31 de diciembre de 1992</systemReleaseDateFormated>
+         <systemHardwareType>Consola portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>

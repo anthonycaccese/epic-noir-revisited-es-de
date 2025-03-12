@@ -14,4 +14,11 @@
       <systemColorPalette3>0088CD</systemColorPalette3>
       <systemColorPalette4>24241E</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Neo Geo CD (ネオジオCD, Hepburn: Neo Jio Shī Dī) es la segunda consola de videojuegos doméstica de la familia Neo Geo de SNK Corporation, lanzada el 9 de septiembre de 1994, cuatro años después de su equivalente basado en cartuchos. Es la misma plataforma, convertida al formato CD más económico, con juegos que se vendían entre 49 y 79 dólares, en comparación con los cartuchos de 300 dólares. El sistema tenía un precio inicial de 399 dólares en EE. UU. o 399 libras en el Reino Unido. La unidad de CD-ROM 1× es lenta, con tiempos de carga muy largos. El sistema también puede reproducir discos de audio CD. Las tres versiones del sistema no tienen bloqueo regional. El Neo Geo CD se lanzó con un control tipo pad en lugar de un joystick como en la versión AES. Sin embargo, el joystick original de AES puede usarse con los tres modelos de Neo Geo CD.</systemDescription>
+         <systemReleaseDateFormated>9 de septiembre de 1994</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

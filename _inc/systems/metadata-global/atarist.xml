@@ -18,4 +18,15 @@ The ST was sold with either Atari's color monitor or the less expensive monochro
       <systemColorPalette3>000000</systemColorPalette3>
       <systemColorPalette4>ECECEC</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Atari ST es una línea de computadoras personales de Atari Corporation y el sucesor de la familia Atari de 8 bits. El modelo inicial, el 520ST, tuvo una distribución limitada entre abril y junio de 1985 y estuvo ampliamente disponible en julio. El 520ST es la primera computadora personal que incluye una interfaz gráfica de usuario a color con mapa de bits, utilizando una versión del GEM de Digital Research lanzada en febrero de 1985. El 1040ST, lanzado en 1986, es la primera computadora personal en enviar con un megabyte de RAM en la configuración base y también la primera con un costo por kilobyte inferior a $1 USD.
+
+El Atari ST es parte de una generación de computadoras personales de mediados de la década de 1980 que tienen procesadores de 16 o 32 bits, 256 KB o más de RAM y interfaces gráficas de usuario controladas por mouse. Esta generación incluye el Macintosh, Amiga, Apple IIGS y, en algunos mercados, el Acorn Archimedes. "ST" oficialmente significa "Dieciséis/Treinta y dos", que se refiere al bus externo de 16 bits del Motorola 68000 y sus 32 bits internos.
+
+El ST se vendió con el monitor a color de Atari o el monitor monocromático, que era más barato. Los modos gráficos a color del sistema solo están disponibles en el primero, mientras que el modo de mayor resolución requiere el monitor monocromático.</systemDescription>
+         <systemReleaseDateFormated>1 de junio de 1985</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

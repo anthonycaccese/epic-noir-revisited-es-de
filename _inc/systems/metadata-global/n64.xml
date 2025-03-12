@@ -14,4 +14,11 @@
       <systemColorPalette3>CA2E39</systemColorPalette3>
       <systemColorPalette4>E1C245</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Llamada así por su unidad central de procesamiento de 64 bits, fue lanzada en junio de 1996 en Japón, en septiembre de 1996 en América del Norte, en marzo de 1997 en Europa y Australia, en septiembre de 1997 en Francia y en diciembre de 1997 en Brasil. Como parte de la quinta generación de videojuegos, la N64 compitió principalmente con la PlayStation y la Sega Saturn. La Nintendo 64 fue lanzada con tres juegos: Super Mario 64 y Pilotwings 64, lanzados a nivel mundial, y Saikyo Habu Shogi, lanzado solo en Japón. Aunque la N64 fue sucedida por la GameCube de Nintendo en noviembre de 2001, las consolas N64 permanecieron disponibles hasta que el sistema fue retirado a finales de 2003.</systemDescription>
+         <systemReleaseDateFormated>23 de junio de 1996</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

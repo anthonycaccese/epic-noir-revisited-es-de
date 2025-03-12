@@ -1,7 +1,16 @@
 <theme>
+   <variables>
+      <langLabelLastPlayed>Last Played</langLabelLastPlayed>
+   </variables>
+   <language name="es_ES">
+      <variables>
+         <langLabelLastPlayed>Últimos jugados</langLabelLastPlayed>
+      </variables>
+   </language>
+
    <view name="system">
       <text name="system-title-1-line">
-         <text>Last Played</text>
+         <text>${langLabelLastPlayed}</text>
       </text>
    </view>
 </theme>

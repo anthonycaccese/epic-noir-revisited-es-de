@@ -14,4 +14,11 @@
       <systemColorPalette3>231F20</systemColorPalette3>
       <systemColorPalette4>FFFFFF</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>AdvanceMAME es un port de los emuladores MAME 0.106 y MESS 0.106 diseñado para monitores arcade y televisores, pero también compatible con pantallas LCD y monitores de PC.</systemDescription>
+         <systemReleaseDateFormated>Mayo de 1998</systemReleaseDateFormated>
+         <systemHardwareType>Emulador</systemHardwareType>
+      </variables>
+   </language>
 </theme>

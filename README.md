@@ -10,6 +10,7 @@ This is a port of the Epic Noir theme (originally by [c64-dev & Chicuelo](https:
 - Added 16:10 and 4:3 Layouts Variants
 - Add support for ES-DE capabilities such as badges and aspect ratio switching
 - Embedded the ES-DE [system-metadata](https://gitlab.com/es-de/themes/system-metadata) repository to power system description, release year and hardware type details
+- Added multi-language support
 
 ## **Preview**
 
@@ -33,4 +34,4 @@ All artwork and layouts were designed and created by [c64-dev & Chicuelo](https:
 
 ## **License**
 Creative Commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/2.0/
-You are free to share and adapt this theme as long as you provide attribution back as well as share any updates you make under the same licence terms.  You may not use this theme for commercial purposes.
+You are free to share and adapt this theme as long as you provide attribution back as well as share any updates you make under the same licence terms. You may not use this theme for commercial purposes.

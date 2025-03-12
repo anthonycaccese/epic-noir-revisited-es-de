@@ -14,4 +14,11 @@
       <systemColorPalette3>D0DFF2</systemColorPalette3>
       <systemColorPalette4>2C2C2C</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La PlayStation Vita (PS Vita o Vita) es una consola portátil de videojuegos desarrollada y comercializada por Sony Interactive Entertainment. Fue lanzada por primera vez en Japón el 17 de diciembre de 2011, y en Norteamérica, Europa y otros territorios internacionales a partir del 22 de febrero de 2012. La consola es la sucesora de la PlayStation Portable y forma parte de la marca PlayStation de dispositivos de juego. Como parte de la octava generación de consolas de videojuegos, compitió principalmente con la Nintendo 3DS.</systemDescription>
+         <systemReleaseDateFormated>17 de diciembre de 2011</systemReleaseDateFormated>
+         <systemHardwareType>Consola portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>

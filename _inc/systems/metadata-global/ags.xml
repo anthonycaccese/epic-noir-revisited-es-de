@@ -14,4 +14,11 @@
       <systemColorPalette3>2C90FF</systemColorPalette3>
       <systemColorPalette4>9FCFFF</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Adventure Game Studio (AGS) es una herramienta de desarrollo de código abierto utilizada principalmente para crear juegos de aventura gráfica. Está dirigida a diseñadores de juegos de nivel intermedio, y combina un entorno de desarrollo integrado (IDE) con un lenguaje de programación basado en C para procesar la lógica del juego.</systemDescription>
+         <systemReleaseDateFormated>1997</systemReleaseDateFormated>
+         <systemHardwareType>Motor</systemHardwareType>
+      </variables>
+   </language>
 </theme>

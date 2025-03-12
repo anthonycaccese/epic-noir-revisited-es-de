@@ -14,4 +14,13 @@
       <systemColorPalette3>4F8E5C</systemColorPalette3>
       <systemColorPalette4>2C2D2C</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Thomson TO8 es una computadora doméstica introducida por la empresa francesa Thomson SA en 1986, con un costo de 2,990 FF. Reemplaza a su predecesora, la Thomson TO7/70, manteniendo esencialmente la compatibilidad. 
+
+Las nuevas características del TO8, como una mayor memoria (256 KB) y mejores modos gráficos (impulsados por el chip gráfico Thomson EF9369), son compartidas con otras computadoras de tercera generación de Thomson (MO6 y TO9+). El TO8 incluye una unidad de casete y Microsoft BASIC 1.0 (en versiones estándar y de 512 KB) en su ROM interna, además de contar con una unidad de disquete externa opcional. Sus gráficos, proporcionados por el chip Thomson EF9369, permiten la visualización de 16 colores a partir de una paleta de 4096. Existen más de 120 juegos para el sistema.</systemDescription>
+         <systemReleaseDateFormated>1986</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

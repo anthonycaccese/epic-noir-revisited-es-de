@@ -1,16 +1,16 @@
 <theme>
    <variables>
-      <langLabelTools>Tools</langLabelTools>
+      <langLabelCompleted>Completed</langLabelCompleted>
    </variables>
    <language name="es_ES">
       <variables>
-         <langLabelTools>Herramientas</langLabelTools>
+         <langLabelCompleted>Completados</langLabelCompleted>
       </variables>
    </language>
 
    <view name="system">
       <text name="system-title-1-line">
-         <text>${langLabelTools}</text>
+         <text>${langLabelCompleted}</text>
       </text>
    </view>
 </theme>

@@ -14,4 +14,11 @@
       <systemColorPalette3>D3D8D3</systemColorPalette3>
       <systemColorPalette4>96958C</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La SAM Coupé (pronunciada /sæm ku:peɪ/ según su marca original en inglés británico) es una computadora doméstica británica de 8 bits que fue lanzada por primera vez a finales de 1989. Estaba basada en el ZX Spectrum 48K y diseñada para ser compatible con este, siendo comercializada como una actualización lógica del Spectrum. Fue fabricada originalmente por Miles Gordon Technology (MGT), con sede en Swansea, Reino Unido.</systemDescription>
+         <systemReleaseDateFormated>1989</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

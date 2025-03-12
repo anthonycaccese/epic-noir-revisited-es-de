@@ -1,7 +1,16 @@
 <theme>
+   <variables>
+      <langLabelAllGames>All Games</langLabelAllGames>
+   </variables>
+   <language name="es_ES">
+      <variables>
+         <langLabelAllGames>Todos los juegos</langLabelAllGames>
+      </variables>
+   </language>
+
    <view name="system">
       <text name="system-title-1-line">
-         <text>All Games</text>
+         <text>${langLabelAllGames}</text>
       </text>
    </view>
 </theme>

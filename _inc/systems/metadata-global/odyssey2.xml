@@ -14,4 +14,11 @@
       <systemColorPalette3>DC3114</systemColorPalette3>
       <systemColorPalette4>F8D239</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Magnavox Odyssey 2 es una consola de videojuegos doméstica de segunda generación (1976-1992) desarrollada y distribuida por Magnavox. Fue lanzada en febrero de 1979 en Norteamérica a un precio de venta de 179 dólares. La consola también fue lanzada en Europa (1979), y más tarde en Sudamérica (1983) y Japón (1982). La Odyssey 2 incluía un teclado de membrana alfanumérico completo, que debía usarse para juegos educativos, selección de opciones o programación. La consola fue descontinuada el 20 de marzo de 1984.</systemDescription>
+         <systemReleaseDateFormated>1 de diciembre de 1978</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

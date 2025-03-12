@@ -14,4 +14,11 @@
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Super A'can es una consola de videojuegos doméstica lanzada exclusivamente en Taiwán en 1995 por Funtech/Dunhuang Technology. Está basada en el microchip Motorola 68000, el mismo utilizado en la Sega Genesis y la Neo Geo. Se han confirmado la existencia de doce juegos para el sistema.</systemDescription>
+         <systemReleaseDateFormated>25 de octubre de 1995</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

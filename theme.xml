@@ -8,6 +8,7 @@ license:       creative commons CC-BY-NC-SA
 
 <theme>
 
+   <include>./_inc/languages.xml</include>
    <include>./_inc/systems/metadata-global/_default.xml</include>
    <include>./_inc/systems/metadata-custom/_default.xml</include>
    <include>./_inc/systems/metadata-global/${system.theme}.xml</include>
@@ -155,7 +156,7 @@ license:       creative commons CC-BY-NC-SA
          <origin>0 0</origin>
          <fontPath>${fontRegular}</fontPath>
          <fontSize>0.034</fontSize>
-         <text>Select Game</text>
+         <text>${langLabelSelectGame}</text>
          <color>F8F8F8</color>
       </text>
       <textlist name="gamelist-nav">

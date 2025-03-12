@@ -9,4 +9,15 @@
       <systemHardwareType>Collection</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemName>Favoritos</systemName>
+         <systemDescription>Ver y jugar tus juegos favoritos en toda la biblioteca.</systemDescription>
+         <systemManufacturer>Varios</systemManufacturer>
+         <systemReleaseYear>Varios</systemReleaseYear>
+         <systemReleaseDate>Varios</systemReleaseDate>
+         <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
+         <systemHardwareType>Colección</systemHardwareType>
+      </variables>
+   </language>
 </theme>

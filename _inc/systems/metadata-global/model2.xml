@@ -14,4 +14,11 @@
       <systemColorPalette3>F4133D</systemColorPalette3>
       <systemColorPalette4>199A40</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Sega Model 2 es una placa arcade presentada por Sega en 1993 como sucesora del Sega Model 1. Es una extensión del hardware del Model 1, destacando la introducción del concepto de polígonos con texturas, lo que permitió gráficos 3D más realistas para su época. La placa Model 2 fue un hito importante para la industria arcade y ayudó a lanzar varias franquicias clave de los 90, como Daytona USA, Virtua Cop, Sega Rally Championship, Dead or Alive, Virtua Striker, Cyber Troopers Virtual-On y The House of the Dead. El Model 2 fue diseñado con la ayuda de GE Aerospace (adquirida por Martin Marietta en 1993, ahora parte de Lockheed Martin), que desarrolló la tecnología de mapeo de texturas incorporada en el Model 2. El desarrollo del Model 2 fue liderado por el famoso diseñador de juegos Yu Suzuki.</systemDescription>
+         <systemReleaseDateFormated>1 de enero de 1993</systemReleaseDateFormated>
+         <systemHardwareType>Arcade</systemHardwareType>
+      </variables>
+   </language>
 </theme>

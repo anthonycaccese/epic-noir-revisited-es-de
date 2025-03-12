@@ -16,4 +16,13 @@ The original Master System models use both cartridges and a credit card-sized fo
       <systemColorPalette3>E60000</systemColorPalette3>
       <systemColorPalette4>1A1A1A</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Sega Master System es una consola de videojuegos doméstica de tercera generación y 8 bits fabricada por Sega. Originalmente era una versión remodelada de exportación de la Sega Mark III, la tercera iteración de la serie de consolas SG-1000, que se lanzó en Japón en 1985 y presentaba capacidades gráficas mejoradas con respecto a sus predecesoras. La Master System se lanzó en América del Norte en 1986, seguida de Europa en 1987 y Brasil en 1989. También se lanzó una versión japonesa de la Master System en 1987, que presenta algunas mejoras con respecto a los modelos de exportación (y, por extensión, a la Mark III original): un chip de audio FM incorporado, un interruptor de disparo rápido y un puerto dedicado para las gafas 3D. La Master System II, un modelo más económico, se lanzó en 1990 en América del Norte y Europa.
+
+Los modelos originales de la Master System usan tanto cartuchos como un formato del tamaño de una tarjeta de crédito conocido como Sega Cards. Los accesorios de la consola incluyen una pistola de luz y gafas 3D que funcionan con una gama de juegos diseñados específicamente. El rediseño posterior de la Master System II eliminó la ranura para tarjetas, convirtiéndola en un sistema exclusivo de cartuchos e incompatible con las gafas 3D.</systemDescription>
+         <systemReleaseDateFormated>1 de septiembre de 1986</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

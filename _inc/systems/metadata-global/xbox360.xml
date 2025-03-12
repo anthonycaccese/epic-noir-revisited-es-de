@@ -16,4 +16,13 @@ The Xbox 360 features an online service, Xbox Live, which was expanded from its 
       <systemColorPalette3>2FA74D</systemColorPalette3>
       <systemColorPalette4>9D9FA2</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Xbox 360 es una consola de videojuegos doméstica desarrollada por Microsoft. Como sucesora de la Xbox original, es la segunda consola en la serie Xbox. Compitió con la PlayStation 3 de Sony y la Wii de Nintendo como parte de la séptima generación de consolas de videojuegos. Fue oficialmente presentada en MTV el 12 de mayo de 2005, con detalles del lanzamiento y los juegos anunciados más tarde ese mes en la Expo de Entretenimiento Electrónico 2005.
+
+La Xbox 360 cuenta con un servicio en línea, Xbox Live, que fue ampliado desde su iteración anterior en la Xbox original y recibió actualizaciones regulares durante la vida de la consola. Disponible en versiones gratuita y de suscripción, Xbox Live permite a los usuarios: jugar en línea; descargar juegos (a través de Xbox Live Arcade) y demos de juegos; comprar y transmitir música, programas de televisión y películas a través de los portales Xbox Music y Xbox Video; y acceder a servicios de contenido de terceros mediante aplicaciones de transmisión de medios. Además de las características multimedia en línea, permite a los usuarios transmitir medios desde PCs locales. Se han lanzado varios periféricos, incluidos controles inalámbricos, almacenamiento expandido en disco duro y la cámara de detección de movimiento Kinect. El lanzamiento de estos servicios y periféricos adicionales ayudó a que la marca Xbox creciera de ser solo de videojuegos a abarcar todo el multimedia, convirtiéndola en un centro de entretenimiento de computación para la sala de estar.</systemDescription>
+         <systemReleaseDateFormated>22 de noviembre de 2005</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

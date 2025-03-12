@@ -14,4 +14,14 @@
       <systemColorPalette3>032EC0</systemColorPalette3>
       <systemColorPalette4>459FD0</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Un juego de arcade o coin-op es una máquina de entretenimiento operada con monedas, típicamente instalada en negocios públicos como restaurantes, bares y salas de juegos. La mayoría de los juegos de arcade son videojuegos, máquinas de pinball, juegos electromecánicos, juegos de canje o distribuidores de premios. Aunque las fechas exactas son debatidas, la edad dorada de los videojuegos de arcade generalmente se define como un período que comienza a finales de la década de 1970 y termina a mediados de la década de 1980. Excluyendo un breve resurgimiento a principios de la década de 1990, la industria del arcade luego declinó en el hemisferio occidental, ya que las consolas de videojuegos caseras competidoras, como Playstation y Xbox, mejoraron en su capacidad gráfica y de jugabilidad y disminuyeron en costo.</systemDescription>
+         <systemManufacturer>Varios</systemManufacturer>
+         <systemReleaseYear>Varios</systemReleaseYear>
+         <systemReleaseDate>Varias</systemReleaseDate>
+         <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
+         <systemHardwareType>Colección</systemHardwareType>
+      </variables>
+   </language>
 </theme>

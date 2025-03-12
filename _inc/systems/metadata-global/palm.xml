@@ -14,4 +14,11 @@
       <systemColorPalette3>345A89</systemColorPalette3>
       <systemColorPalette4>363636</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El PalmPilot Personal y el PalmPilot Professional son la segunda generación de dispositivos PDA de Palm producidos por Palm Inc. (en ese momento una subsidiaria de U.S. Robotics, más tarde 3Com). Estos dispositivos fueron lanzados el 10 de marzo de 1997.</systemDescription>
+         <systemReleaseDateFormated>10 de marzo de 1997</systemReleaseDateFormated>
+         <systemHardwareType>Sistema Operativo</systemHardwareType>
+      </variables>
+   </language>
 </theme>

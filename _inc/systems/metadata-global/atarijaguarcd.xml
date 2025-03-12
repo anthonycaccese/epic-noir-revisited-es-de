@@ -14,4 +14,11 @@
       <systemColorPalette3>FDC007</systemColorPalette3>
       <systemColorPalette4>232326</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Atari Jaguar CD es un periférico de CD-ROM de quinta generación (1993–2005) para la consola de videojuegos Atari Jaguar, desarrollado y distribuido por Atari Corporation. Fue lanzado en septiembre de 1995 en América del Norte a un precio de venta de $149.95. El periférico también fue lanzado en Europa (1995). La unidad Jaguar CD contaba con un lector de velocidad doble (2×) y su propio slot para cartuchos, lo que permitía jugar juegos de cartucho sin necesidad de retirar la unidad CD. El periférico fue descontinuado a principios de 1996, posiblemente en el momento de la venta de la empresa el 8 de abril de 1996.</systemDescription>
+         <systemReleaseDateFormated>21 de septiembre de 1995</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

@@ -14,4 +14,11 @@
       <systemColorPalette3>B11313</systemColorPalette3>
       <systemColorPalette4>710000</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Adobe Flash (anteriormente Macromedia Flash y FutureSplash) fue una plataforma de software multimedia utilizada para la producción de animaciones, aplicaciones web interactivas, aplicaciones de escritorio, aplicaciones móviles, juegos móviles y reproductores de video en navegadores web. Permitía la transmisión de audio y video, y podía capturar la entrada del ratón, teclado, micrófono y cámara.</systemDescription>
+         <systemReleaseDateFormated>Noviembre de 1996</systemReleaseDateFormated>
+         <systemHardwareType>Motor</systemHardwareType>
+      </variables>
+   </language>
 </theme>

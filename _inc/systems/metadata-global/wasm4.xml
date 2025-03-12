@@ -14,4 +14,11 @@
       <systemColorPalette3>4B5E2C</systemColorPalette3>
       <systemColorPalette4>8FC038</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>WASM-4 es una consola de juegos fantástica de bajo nivel para crear pequeños juegos con WebAssembly. Los cartuchos de juego (ROMs) son archivos .wasm pequeños y autónomos que pueden ser creados con cualquier lenguaje de programación que compile a WebAssembly.</systemDescription>
+         <systemReleaseDateFormated>21 de junio de 2022</systemReleaseDateFormated>
+         <systemHardwareType>Motor</systemHardwareType>
+      </variables>
+   </language>
 </theme>

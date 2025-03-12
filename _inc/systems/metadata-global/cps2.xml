@@ -14,4 +14,11 @@
       <systemColorPalette3>FFCB04</systemColorPalette3>
       <systemColorPalette4>111111</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El CP System II (CPシステムII, shīpī shisutemu tsū) o CPS-2 es una placa de sistema arcade que Capcom utilizó por primera vez en 1993 con el juego Super Street Fighter II. Fue el sucesor del CP System y del hardware Capcom Power System Changer, y posteriormente fue sucedido por el hardware CP System III en 1996, aunque el CPS-2 se mantuvo en uso durante más de cuatro años adicionales. La plataforma arcade recibió nuevos lanzamientos hasta finales de 2003, terminando con Hyper Street Fighter II.</systemDescription>
+         <systemReleaseDateFormated>10 de septiembre de 1993</systemReleaseDateFormated>
+         <systemHardwareType>Arcade</systemHardwareType>
+      </variables>
+   </language>
 </theme>

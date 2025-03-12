@@ -14,4 +14,11 @@
       <systemColorPalette3>FFE41B</systemColorPalette3>
       <systemColorPalette4>23B14D</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El 3DO Interactive Multiplayer (a menudo llamado simplemente 3DO) es una consola de videojuegos producida originalmente por Panasonic en 1993. Otras versiones del hardware fueron lanzadas en 1994 por Sanyo y Goldstar. Las consolas fueron fabricadas de acuerdo con las especificaciones creadas por The 3DO Company y fueron diseñadas originalmente por Dave Needle y RJ Mical de New Technology Group. El sistema fue concebido por el empresario y fundador de Electronic Arts, Trip Hawkins.</systemDescription>
+         <systemReleaseDateFormated>4 de Octubre de 1993</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

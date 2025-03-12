@@ -14,4 +14,15 @@
       <systemColorPalette3>F4BE46</systemColorPalette3>
       <systemColorPalette4>E45B12</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemName>Juegos portados</systemName>
+         <systemDescription>Visualiza y juega todos tus ports de juegos favoritos.</systemDescription>
+         <systemManufacturer>Varios</systemManufacturer>
+         <systemReleaseYear>Varios</systemReleaseYear>
+         <systemReleaseDate>Varios</systemReleaseDate>
+         <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
+         <systemHardwareType>Carpeta</systemHardwareType>
+      </variables>
+   </language>
 </theme>

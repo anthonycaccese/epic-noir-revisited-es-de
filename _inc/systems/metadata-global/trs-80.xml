@@ -14,4 +14,11 @@
       <systemColorPalette3>CE2027</systemColorPalette3>
       <systemColorPalette4>0F7C3E</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El TRS-80 Micro Computer System (TRS-80, posteriormente renombrado como Modelo I para distinguirlo de sus sucesores) es una microcomputadora de escritorio lanzada en 1977 y vendida por Tandy Corporation a través de sus tiendas Radio Shack. El nombre es una abreviatura de Tandy Radio Shack y Z80 [microprocesador]. Es una de las primeras computadoras domésticas producidas y comercializadas en masa.</systemDescription>
+         <systemReleaseDateFormated>3 de agosto de 1977</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

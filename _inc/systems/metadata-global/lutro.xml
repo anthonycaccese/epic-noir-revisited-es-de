@@ -14,4 +14,11 @@
       <systemColorPalette3>F2D8B5</systemColorPalette3>
       <systemColorPalette4>00007F</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Lutro es un marco de trabajo 2D que tiene como objetivo la simplicidad y la extrema portabilidad. Usando Lutro, puedes desarrollar cualquier tipo de juegos retro 2D, como juegos de NES o Genesis, y ejecutarlos en una amplia gama de plataformas a través de RetroArch. Lutro facilita la escritura de juegos utilizando Lua y siguiendo la API de LÖVE. La portabilidad se logra a través de la API de libretro: Lutro se carga como un complemento en un frontend como RetroArch, que se encarga de la visualización, el audio y las entradas.</systemDescription>
+         <systemReleaseDateFormated>17 de febrero de 2015</systemReleaseDateFormated>
+         <systemHardwareType>Motor</systemHardwareType>
+      </variables>
+   </language>
 </theme>

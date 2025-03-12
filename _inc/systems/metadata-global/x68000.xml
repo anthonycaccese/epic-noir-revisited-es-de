@@ -16,4 +16,13 @@ The first model features a 10 MHz Motorola 68000 CPU (hence the name), 1 MB of R
       <systemColorPalette3>C25F7F</systemColorPalette3>
       <systemColorPalette4>41BC83</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El X68000 (japonés: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) es una computadora doméstica creada por Sharp Corporation, lanzada por primera vez en 1987 y vendida exclusivamente en Japón.
+
+El primer modelo cuenta con un procesador Motorola 68000 de 10 MHz (de ahí el nombre), 1 MB de RAM, y sin disco duro; el último modelo fue lanzado en 1993 con un procesador Motorola 68030 de 25 MHz, 4 MB de RAM y un disco duro SCSI opcional de 80 MB. La RAM de estos sistemas se puede expandir hasta 12 MB, aunque la mayoría de los juegos y aplicaciones no requieren más de 2 MB.</systemDescription>
+         <systemReleaseDateFormated>1 de marzo de 1987</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

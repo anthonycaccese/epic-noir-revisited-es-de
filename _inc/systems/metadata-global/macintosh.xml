@@ -16,4 +16,13 @@ The original Macintosh is the first successful mass-market all-in-one desktop pe
       <systemColorPalette3>009DDD</systemColorPalette3>
       <systemColorPalette4>C45152</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Macintosh (principalmente Mac desde 1998) es una familia de computadoras personales diseñadas, fabricadas y vendidas por Apple Inc. (originalmente como Apple Computer, Inc.) desde enero de 1984. 
+
+El Macintosh original es la primera computadora personal de escritorio todo en uno de mercado masivo en tener una interfaz gráfica de usuario exitosa, pantalla incorporada y un ratón. Apple vendió el Macintosh junto a sus populares familias de computadoras Apple II, Apple IIGS, Apple III y Apple Lisa hasta que los otros modelos fueron descontinuados en la década de 1990.</systemDescription>
+         <systemReleaseDateFormated>Enero de 1984</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

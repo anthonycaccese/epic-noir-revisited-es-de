@@ -14,4 +14,11 @@
       <systemColorPalette3>77776D</systemColorPalette3>
       <systemColorPalette4>9E9C8F</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Oric fue el nombre utilizado por Tangerine Computer Systems, con sede en el Reino Unido, para una serie de computadoras domésticas basadas en el procesador 6502 y vendidas en la década de 1980, principalmente en Europa. Con el éxito del ZX Spectrum de Sinclair Research, los inversores de Tangerine sugirieron desarrollar una computadora doméstica, por lo que Tangerine formó Oric Products International Ltd para desarrollar la Oric-1. La computadora fue presentada en 1982. Durante 1983, se vendieron aproximadamente 160,000 computadoras Oric-1 en el Reino Unido, además de otras 50,000 en Francia (donde fue la máquina más vendida del año). Como resultado, Oric fue adquirida y recibió financiación para un modelo sucesor, la Oric Atmos de 1984.</systemDescription>
+         <systemReleaseDateFormated>1 de septiembre de 1982</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

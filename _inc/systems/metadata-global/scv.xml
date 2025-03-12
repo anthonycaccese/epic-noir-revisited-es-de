@@ -14,4 +14,13 @@
       <systemColorPalette3>F8EA32</systemColorPalette3>
       <systemColorPalette4>FF5700</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Cassette Vision original de Epoch fue lanzada en Japón por Epoch en 1981, con ventas constantes que le permitieron capturar más del 70% del mercado japonés de consolas domésticas en ese momento, con aproximadamente 400,000 unidades vendidas. Sin embargo, la introducción de sistemas de próxima generación de Nintendo, Casio y Sega rápidamente desplazó a la Cassette Vision original, lo que llevó a Epoch a desarrollar rápidamente una sucesora.
+
+La Super Cassette Vision fue lanzada en 1984 con un precio de ¥14,800, con un procesador de 8 bits y un rendimiento mejorado, más acorde con sus competidores. Posteriormente, fue lanzada en Francia por ITMC bajo la marca Yeno. Al menos 16 juegos fueron adaptados desde Japón para su lanzamiento en Europa. Se desarrolló una versión de la consola dirigida al mercado femenino joven, la Super Lady Cassette Vision, que venía en un estuche rosa junto con el juego Milky Princess. Sin embargo, el sistema no logró despegar y no pudo igualar la enorme popularidad de la Nintendo Famicom, lo que llevó a Epoch a abandonar el mercado de consolas en 1987.</systemDescription>
+         <systemReleaseDateFormated>17 de julio de 1984</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

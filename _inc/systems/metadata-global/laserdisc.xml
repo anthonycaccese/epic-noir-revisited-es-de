@@ -14,4 +14,11 @@
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Los juegos arcade en LaserDisc utilizan video pregrabado, ya sea en combinación con sprites superpuestos o simplemente como secciones de video controlables por el jugador. El primer gran juego en LaserDisc fue Astron Belt de Sega, lanzado en 1983. Fue seguido de cerca por Dragon's Lair ese mismo año, que es sin duda el juego en LaserDisc más famoso. Varios títulos se lanzaron posteriormente y, hasta el día de hoy, hay una comunidad que crea juegos caseros similares, aunque ya no utilizan discos LaserDisc.</systemDescription>
+         <systemReleaseDateFormated>Varios</systemReleaseDateFormated>
+         <systemHardwareType>Carpeta</systemHardwareType>
+      </variables>
+   </language>
 </theme>

@@ -14,4 +14,15 @@
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemName>Emuladores</systemName>
+         <systemDescription>Modifica la configuración y ajustes de tu emulador.</systemDescription>
+         <systemManufacturer>Varios</systemManufacturer>
+         <systemReleaseYear>Varios</systemReleaseYear>
+         <systemReleaseDate>Varios</systemReleaseDate>
+         <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
+         <systemHardwareType>Carpeta</systemHardwareType>
+      </variables>
+   </language>
 </theme>

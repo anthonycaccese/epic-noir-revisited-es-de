@@ -14,4 +14,11 @@
       <systemColorPalette3>EE3537</systemColorPalette3>
       <systemColorPalette4>1F4394</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Java Platform, Micro Edition o Java ME es una plataforma informática para el desarrollo y despliegue de código portátil en dispositivos embebidos y móviles (microcontroladores, sensores, gateways, teléfonos móviles, asistentes digitales personales, decodificadores de TV, impresoras). Java ME fue anteriormente conocido como Java 2 Platform, Micro Edition o J2ME. Desde el 22 de diciembre de 2006, el código fuente de Java ME está licenciado bajo la Licencia Pública General de GNU y se publica bajo el nombre del proyecto phoneME.</systemDescription>
+         <systemReleaseDateFormated>8 de diciembre de 1998</systemReleaseDateFormated>
+         <systemHardwareType>Sistema Operativo</systemHardwareType>
+      </variables>
+   </language>
 </theme>

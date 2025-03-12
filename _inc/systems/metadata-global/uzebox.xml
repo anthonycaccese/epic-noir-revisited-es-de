@@ -16,4 +16,13 @@
       <systemColorPalette3>C9C2BF</systemColorPalette3>
       <systemColorPalette4>07336A</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Uzebox es una consola de videojuegos retro-minimalista de 8 bits y de código abierto. Está basada en un microcontrolador de propósito general AVR de 8 bits fabricado por Atmel. La particularidad del sistema es que utiliza un núcleo impulsado por interrupciones y no tiene un búfer de fotogramas. Funciones como la generación de señales de video, el renderizado de mosaicos y la mezcla de música se realizan en tiempo real mediante una tarea en segundo plano, lo que permite desarrollar fácilmente juegos en C.
+
+El objetivo del diseño era ser lo más simple posible, pero ofreciendo sonido y gráficos lo suficientemente buenos para permitir la creación de juegos interesantes. Se puso énfasis en hacer que fuera fácil y divertido de ensamblar y programar para cualquier aficionado. El diseño final solo contiene dos chips: un ATmega644 y un convertidor RGB a NTSC AD725.</systemDescription>
+         <systemReleaseDateFormated>24 de agosto de 2008</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

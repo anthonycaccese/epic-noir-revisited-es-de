@@ -14,4 +14,11 @@
       <systemColorPalette3>FDB827</systemColorPalette3>
       <systemColorPalette4>61BB46</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>En 1976, los pioneros de la informática Steve Wozniak y Steve Jobs comenzaron a vender su computadora Apple I en forma de kit a las tiendas de computadoras. Un mes después, Wozniak estaba trabajando en un diseño para una versión mejorada, el Apple II. Demostraron un prototipo en diciembre y luego lo presentaron al público en abril de 1977. El Apple II inició el auge de las ventas de computadoras personales a finales de los años 70, y colocó a Apple a la cabeza de los fabricantes de computadoras personales.</systemDescription>
+         <systemReleaseDateFormated>1 de junio de 1977</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

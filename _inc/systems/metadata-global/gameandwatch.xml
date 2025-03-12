@@ -19,6 +19,15 @@ The series sold a combined of 43.4 million units worldwide.</systemDescription>
       <systemColorPalette3>853641</systemColorPalette3>
       <systemColorPalette4>4C301C</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Game &amp; Watch es una serie de juegos electrónicos portátiles desarrollados, fabricados, lanzados y comercializados por Nintendo desde 1980 hasta 1991. Creado por el diseñador de juegos Gunpei Yokoi, el producto recibió su nombre debido a que presentaba un solo juego y un reloj en una pantalla LCD. A partir de 1981, los modelos también incluían una alarma. Fue el primer producto de Nintendo en alcanzar un gran éxito en el mercado de los videojuegos.
+
+Las unidades están basadas en un procesador de 4 bits de la familia Sharp SM5xx, que incluye una pequeña área de ROM y RAM, así como un circuito controlador de pantalla LCD. Sin embargo, antes de su simulación en MAME, existía la idea errónea de que cada unidad usaba un ASIC personalizado en lugar de un microcontrolador adecuado.
+
+La serie vendió un total combinado de 43.4 millones de unidades en todo el mundo.</systemDescription>
+         <systemReleaseDateFormated>28 de abril de 1980</systemReleaseDateFormated>
+         <systemHardwareType>Consola portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>
-
-

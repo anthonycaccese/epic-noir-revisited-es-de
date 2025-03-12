@@ -18,4 +18,15 @@ The ZX81 could be bought by mail order preassembled or, for a lower price, in ki
       <systemColorPalette3>D2CECD</systemColorPalette3>
       <systemColorPalette4>191222</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El ZX81 es una computadora doméstica producida por Sinclair Research y fabricada en Dundee, Escocia, por Timex Corporation. Fue lanzada en el Reino Unido en marzo de 1981 como sucesora del ZX80 de Sinclair y diseñada para ser una introducción económica a la informática doméstica para el público en general. Fue un éxito rotundo; se vendieron más de 1.5 millones de unidades. En los Estados Unidos, inicialmente se vendió como ZX-81 bajo licencia de Timex. Posteriormente, Timex produjo sus propias versiones del ZX81: el Timex Sinclair 1000 y el Timex Sinclair 1500. En varios países se produjeron clones no autorizados del ZX81.
+
+El ZX81 fue diseñado para ser pequeño, simple y, sobre todo, económico, con la menor cantidad de componentes posible. La salida de video es a un televisor en lugar de a un monitor dedicado. Los programas y datos se cargan y guardan en cintas de casete compactas. Utiliza solo cuatro chips de silicio y apenas 1 KB de memoria. No tiene interruptor de encendido ni partes móviles, con la excepción de un selector de canal VHF presente en algunos modelos. Tiene un teclado de membrana sensible a la presión. Las limitaciones del ZX81 dieron lugar a un mercado de periféricos de terceros para mejorar sus capacidades. Su distintivo caso y teclado le valieron al diseñador Rick Dickinson un premio del Design Council.
+
+El ZX81 podía ser comprado por correo en su versión preensamblada o, a un precio más bajo, en forma de kit. Fue la primera computadora doméstica barata de mercado masivo en ser vendida en tiendas de alta calle, lideradas por W. H. Smith y pronto por muchos otros minoristas. El ZX81 marcó el momento en que la informática en Gran Bretaña pasó de ser una actividad de empresarios y aficionados a la electrónica a ser una actividad para el público en general. Produjo una enorme comunidad de entusiastas, algunos de los cuales fundaron sus propios negocios produciendo software y hardware para el ZX81. Muchos de ellos desempeñaron papeles importantes en la industria informática británica. El éxito comercial del ZX81 convirtió a Sinclair Research en uno de los principales fabricantes de computadoras de Gran Bretaña y le valió una fortuna y un eventual título de caballero a su fundador, Sir Clive Sinclair.</systemDescription>
+         <systemReleaseDateFormated>5 de marzo de 1981</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

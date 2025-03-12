@@ -14,4 +14,14 @@
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Si bien las placas arcade tradicionalmente han sido diseños personalizados, ha habido varios sistemas basados en plataformas de consolas domésticas. La primera de estas placas fue el Nintendo VS. System, basado en el Famicom y lanzado en 1984. La última placa basada en una consola fue el Namco System 369, lanzado en 2011 y basado en la Sony PlayStation 3.</systemDescription>
+         <systemManufacturer>Varios</systemManufacturer>
+         <systemReleaseYear>Varios</systemReleaseYear>
+         <systemReleaseDate>Varios</systemReleaseDate>
+         <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
+         <systemHardwareType>Carpeta</systemHardwareType>
+      </variables>
+   </language>
 </theme>

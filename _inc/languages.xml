@@ -1,0 +1,11 @@
+<theme>
+    <!-- Defaults, used for en_US -->
+    <variables>
+        <langLabelSelectGame>Select Game</langLabelSelectGame>
+    </variables>
+    <language name="es_ES">
+        <variables>
+            <langLabelSelectGame>Elegir Juego</langLabelSelectGame>
+        </variables>
+    </language>
+</theme>

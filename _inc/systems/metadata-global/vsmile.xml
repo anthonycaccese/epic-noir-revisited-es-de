@@ -18,4 +18,15 @@ Some key differentiators between systems and the ability to fully utilize all ga
       <systemColorPalette3>CBCFD0</systemColorPalette3>
       <systemColorPalette4>F0973A</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La V.Smile (estilizada como V.SMILE TV LEARNING SYSTEM) es una consola de videojuegos educativa de sexta generación, fabricada y lanzada por VTech. Los títulos están disponibles en cartuchos ROM llamados "Smartridges", diseñados para potenciar la naturaleza educativa del sistema. Los gráficos son principalmente basados en sprites. La consola suele venderse en paquete con un juego en particular, la mayoría de ellos incluyendo Alphabet Park Adventure.
+
+Existen varias variantes de la consola V.Smile, incluidas versiones portátiles o modelos con funcionalidades adicionales, como controles con pantalla táctil integrada o micrófonos. Una variante importante es la V-Motion, que cuenta con su propia línea de software e incluye controles con detección de movimiento, diseñados para fomentar el "aprendizaje activo" relacionado con el movimiento. La V-Motion y los Smartridges son totalmente compatibles con otras variantes de V.Smile y sus Smartridges, aunque los Smartridges de V-Motion pueden jugarse en una consola V.Smile o portátil con funcionalidades limitadas. Sin embargo, en 2010, los modelos nuevos y antiguos de V.Smile fueron descontinuados. VTech continuó produciendo juegos para la V.Smile hasta 2012.
+
+Algunas diferencias clave entre los sistemas y su capacidad para aprovechar todas las funciones de los juegos incluyen la opción de micrófono, pantalla táctil, puerto adicional para joystick (para juego de 2 jugadores), control con lápiz óptico o gamepad con detección de movimiento (en el caso de la V-Motion).</systemDescription>
+         <systemReleaseDateFormated>4 de agosto de 2004</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

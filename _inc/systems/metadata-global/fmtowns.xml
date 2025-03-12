@@ -16,4 +16,13 @@ The "FM" part of the name means "Fujitsu Micro" like their earlier products, whi
       <systemColorPalette3>606875</systemColorPalette3>
       <systemColorPalette4>151619</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El FM Towns (japonés: エフエムタウンズ, Hepburn: Efu Emu Taunzu) es una computadora personal japonesa fabricada por Fujitsu desde febrero de 1989 hasta el verano de 1997. Comenzó como una variante de PC propietaria destinada a aplicaciones multimedia y videojuegos de PC, pero más tarde se hizo más compatible con los PC compatibles con IBM. En 1993, se lanzó el FM Towns Marty, una consola de videojuegos compatible con los juegos existentes de FM Towns.
+
+La parte "FM" del nombre significa "Fujitsu Micro", como sus productos anteriores, mientras que la parte "Towns" se deriva del nombre en código que se le asignó al sistema durante el desarrollo, "Townes". Esto hace referencia a Charles Townes, uno de los ganadores del Premio Nobel de Física en 1964, siguiendo una costumbre de Fujitsu en ese momento de nombrar sus productos informáticos con nombres de ganadores del Premio Nobel. La "e" en "Townes" se eliminó cuando el sistema entró en producción para que fuera más claro que el término debía pronunciarse como la palabra "towns" y no como "tow-nes".</systemDescription>
+         <systemReleaseDateFormated>28 de febrero de 1989</systemReleaseDateFormated>
+         <systemHardwareType>Computadora</systemHardwareType>
+      </variables>
+   </language>
 </theme>

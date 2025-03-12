@@ -1,7 +1,16 @@
 <theme>
+   <variables>
+      <langLabelFavorites>Favorites</langLabelFavorites>
+   </variables>
+   <language name="es_ES">
+      <variables>
+         <langLabelFavorites>Favoritos</langLabelFavorites>
+      </variables>
+   </language>
+
    <view name="system">
       <text name="system-title-1-line">
-         <text>Favorites</text>
+         <text>${langLabelFavorites}</text>
       </text>
    </view>
 </theme>

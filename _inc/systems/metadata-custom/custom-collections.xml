@@ -1,7 +1,16 @@
 <theme>
+   <variables>
+      <langLabelCustomCollection>Collections</langLabelCustomCollection>
+   </variables>
+   <language name="es_ES">
+      <variables>
+         <langLabelCustomCollection>Colecciones</langLabelCustomCollection>
+      </variables>
+   </language>
+
    <view name="system">
       <text name="system-title-1-line">
-         <text>Collections</text>
+         <text>${langLabelCustomCollection}</text>
       </text>
    </view>
 </theme>

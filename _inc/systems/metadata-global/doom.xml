@@ -14,4 +14,11 @@
       <systemColorPalette3>D37112</systemColorPalette3>
       <systemColorPalette4>A63417</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>Doom es un videojuego de disparos en primera persona (FPS) de 1993 desarrollado por id Software para MS-DOS. Los jugadores asumen el papel de un marine espacial, popularmente conocido como Doomguy, que lucha contra hordas de demonios invasores del infierno. Id Software comenzó el desarrollo de Doom después del lanzamiento de su anterior FPS, Wolfenstein 3D (1992).</systemDescription>
+         <systemReleaseDateFormated>10 de diciembre de 1993</systemReleaseDateFormated>
+         <systemHardwareType>Motor</systemHardwareType>
+      </variables>
+   </language>
 </theme>

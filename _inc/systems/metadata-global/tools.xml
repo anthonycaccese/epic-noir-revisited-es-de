@@ -9,4 +9,15 @@
       <systemHardwareType>Folder</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemName>Herramientas</systemName>
+         <systemDescription>Programas, scripts y utilidades para gestionar tu configuración.</systemDescription>
+         <systemManufacturer>Varios</systemManufacturer>
+         <systemReleaseYear>Varios</systemReleaseYear>
+         <systemReleaseDate>Varios</systemReleaseDate>
+         <systemReleaseDateFormated>Varias</systemReleaseDateFormated>
+         <systemHardwareType>Carpeta</systemHardwareType>
+      </variables>
+   </language>
 </theme>

@@ -16,4 +16,13 @@ The Vectrex, in contrast to other video-game systems available at the time, feat
       <systemColorPalette3>11192E</systemColorPalette3>
       <systemColorPalette4>166FC1</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Vectrex es una consola de videojuegos doméstica basada en una pantalla de vectores, siendo la única de este tipo diseñada y lanzada para el mercado doméstico. Fue desarrollada por Smith Engineering y lanzada por primera vez en Norteamérica en noviembre de 1982, seguida por Europa y Japón en 1983. Inicialmente fue fabricada por General Consumer Electronics y posteriormente licenciada a Milton Bradley después de que adquirieran la empresa. Bandai lanzó el sistema en Japón.
+
+A diferencia de otros sistemas de videojuegos de la época, la Vectrex incluía un monitor CRT monocromático integrado y no necesitaba conectarse a un televisor, ya que contaba con su propia pantalla incorporada. Tenía un control con cable desmontable que se almacenaba en la base inferior de la consola. Los juegos incluían hojas translúcidas de colores que podían colocarse sobre la pantalla monocromática. Se produjeron varios periféricos, como unas gafas 3D conocidas como "3D Imager" y un "light-pen" que permitía al jugador dibujar directamente en la pantalla. El juego Mine Storm venía integrado y se podía jugar sin necesidad de insertar un cartucho.</systemDescription>
+         <systemReleaseDateFormated>noviembre de 1982</systemReleaseDateFormated>
+         <systemHardwareType>Consola</systemHardwareType>
+      </variables>
+   </language>
 </theme>

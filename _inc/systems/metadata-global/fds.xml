@@ -17,4 +17,13 @@ Fundamentally, the Disk System serves simply to enhance some aspects already inh
       <systemColorPalette3>3C3C3B</systemColorPalette3>
       <systemColorPalette4>F4B600</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>El Sistema de Discos de la Famicom, comúnmente abreviado como Famicom Disk System o simplemente Disk System, es un periférico para la consola de videojuegos doméstica Family Computer de Nintendo, lanzado únicamente en Japón el 21 de febrero de 1986. Utiliza discos flexibles propietarios llamados "Disk Cards" para un almacenamiento de datos más económico y añade un nuevo canal de sonido de alta fidelidad para soportar los juegos del Disk System.
+
+Fundamentalmente, el Disk System sirve simplemente para mejorar algunos aspectos ya inherentes al sistema base de la Famicom, con mejor sonido y juegos más baratos, aunque con las desventajas de un alto precio inicial, velocidad lenta y menor fiabilidad. Sin embargo, este impulso al mercado de almacenamiento masivo asequible y grabable sirvió temporalmente como una tecnología habilitadora para la creación de nuevos tipos de videojuegos. Esto incluye las vastas aventuras de mundo abierto con guardado de progreso de los superventas The Legend of Zelda (1986) y Metroid (1986), juegos con un lanzamiento económico y rápido como el superventas Super Mario Bros. 2, y tablas de clasificación y concursos nacionales a través de los quioscos en tienda Disk Fax, que se consideran los precursores de los sistemas actuales de logros y distribución en línea.</systemDescription>
+         <systemReleaseDateFormated>21 de febrero de 1986</systemReleaseDateFormated>
+         <systemHardwareType>Periférico</systemHardwareType>
+      </variables>
+   </language>
 </theme>

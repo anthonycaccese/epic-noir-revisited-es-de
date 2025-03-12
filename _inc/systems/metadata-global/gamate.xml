@@ -14,4 +14,11 @@
       <systemColorPalette3>555555</systemColorPalette3>
       <systemColorPalette4>333333</systemColorPalette4>
    </variables>
+   <language name="es_ES">
+      <variables>
+         <systemDescription>La Gamate, conocida como 超級小子 en Taiwán y 超级神童 en China, es una consola de videojuegos portátil fabricada por Bit Corporation a principios de la década de 1990. Fue lanzada en Australia, algunas partes de Europa, Asia (Taiwán y China), Argentina y Estados Unidos.</systemDescription>
+         <systemReleaseDateFormated>1990</systemReleaseDateFormated>
+         <systemHardwareType>Portátil</systemHardwareType>
+      </variables>
+   </language>
 </theme>
