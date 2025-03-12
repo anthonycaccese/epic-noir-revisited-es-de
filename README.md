@@ -7,7 +7,7 @@ This is a port of the Epic Noir theme (originally by [c64-dev & Chicuelo](https:
 - Redesigned the design/layout of system and gamelist views
 - Removed all Retropie specific elements to make the theme compatible with ES-DE v2.x
 - Updated system image names to match the standard used by ES-DE
-- Added a 16:10 Layout Variant
+- Added 16:10 and 4:3 Layouts Variants
 - Add support for ES-DE capabilities such as badges and aspect ratio switching
 - Embedded the ES-DE [system-metadata](https://gitlab.com/es-de/themes/system-metadata) repository to power system description, release year and hardware type details
 

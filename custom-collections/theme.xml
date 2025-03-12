@@ -41,4 +41,12 @@
          </text>
       </view>
    </aspectRatio>
+   <aspectRatio name="4:3">
+      <view name="gamelist">
+         <text name="custom-collection-name">
+            <pos>0.47 0.002</pos>
+            <size>0.444444444444444 0.075</size>
+         </text>
+      </view>
+   </aspectRatio>
 </theme>
