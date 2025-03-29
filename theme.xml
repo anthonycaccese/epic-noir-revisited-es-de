@@ -31,6 +31,25 @@ license:       creative commons CC-BY-NC-SA
          <zIndex>0</zIndex>
          <color>000000</color>
       </image>
+      <clock name="clock">
+         <opacity>0</opacity>
+      </clock>
+      <systemstatus name="system-status">
+         <origin>1 0</origin>
+         <pos>0.99 0.021</pos>
+         <fontPath>${fontLogo}</fontPath>
+         <textRelativeScale>0.6</textRelativeScale>
+         <height>0.038</height>
+         <color>cccccc</color>
+         <customIcon icon="icon_bluetooth">./_inc/images/icon-bluetooth.svg</customIcon>
+         <customIcon icon="icon_wifi">./_inc/images/icon-wifi.svg</customIcon>
+         <customIcon icon="icon_cellular">./_inc/images/icon-cellular.svg</customIcon>
+         <customIcon icon="icon_battery_charging">./_inc/images/icon-battery-charging.svg</customIcon>
+         <customIcon icon="icon_battery_full">./_inc/images/icon-battery-full.svg</customIcon>
+         <customIcon icon="icon_battery_high">./_inc/images/icon-battery-high.svg</customIcon>
+         <customIcon icon="icon_battery_medium">./_inc/images/icon-battery-medium.svg</customIcon>
+         <customIcon icon="icon_battery_low">./_inc/images/icon-battery-low.svg</customIcon>
+      </systemstatus>
       <image name="background-gradient">
          <origin>0 0</origin>
          <pos>0 0</pos>
@@ -180,12 +199,6 @@ license:       creative commons CC-BY-NC-SA
          <color>343434</color>
          <zIndex>2</zIndex>
       </image>
-      <image name="gamelist-nav-emblem">
-         <origin>1 0</origin>
-         <pos>1 0</pos>
-         <path>./_inc/images/gamelist-nav-emblem.svg</path>
-         <zIndex>1</zIndex>
-      </image>
       <text name="system-title">
          <origin>0 0</origin>
          <fontPath>${fontLogo}</fontPath>
@@ -302,9 +315,6 @@ license:       creative commons CC-BY-NC-SA
          <image name="gamelist-nav-border">
             <pos>0.3234375 0</pos>
          </image>
-         <image name="gamelist-nav-emblem">
-            <size>0.107291666666667 0.081481481481481</size><!-- 206 88 -->
-         </image>
          <text name="system-title">
             <pos>0.342 0.002</pos>
             <size>0.40 0.075</size>
@@ -377,9 +387,6 @@ license:       creative commons CC-BY-NC-SA
          </textlist>
          <image name="gamelist-nav-border">
             <pos>0.359375 0</pos>
-         </image>
-         <image name="gamelist-nav-emblem">
-            <size>0.119212962962963 0.081481481481481</size><!-- 206 88 -->
          </image>
          <text name="system-title">
             <pos>0.38 0.002</pos>
@@ -459,9 +466,6 @@ license:       creative commons CC-BY-NC-SA
          </textlist>
          <image name="gamelist-nav-border">
             <pos>0.359375 0</pos>
-         </image>
-         <image name="gamelist-nav-emblem">
-            <size>0.119212962962963 0.083481481481481</size><!-- 206 88 -->
          </image>
          <text name="system-title">
             <pos>0.38 0.002</pos>
